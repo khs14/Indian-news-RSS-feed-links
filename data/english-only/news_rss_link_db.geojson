@@ -1,0 +1,1013 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8212,
+          18.9691
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/-2128838597.cms",
+        "language": "en",
+        "region": "Mumbai",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2188,
+          28.6324
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/-2128839596.cms",
+        "language": "en",
+        "region": "Delhi",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5753,
+          12.9768
+        ]
+      },
+      "properties": {
+        "id": 3,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/-2128833038.cms",
+        "language": "en",
+        "region": "Bengaluru",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4752,
+          17.3617
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/-2128816011.cms",
+        "language": "en",
+        "region": "Hyderabad",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2019,
+          13.0721
+        ]
+      },
+      "properties": {
+        "id": 5,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/2950623.cms",
+        "language": "en",
+        "region": "Chennai",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5918,
+          23.0145
+        ]
+      },
+      "properties": {
+        "id": 6,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/-2128821153.cms",
+        "language": "en",
+        "region": "Ahmedabad",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8463,
+          25.4358
+        ]
+      },
+      "properties": {
+        "id": 7,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/3947060.cms",
+        "language": "en",
+        "region": "Prayagraj",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.8331,
+          20.2726
+        ]
+      },
+      "properties": {
+        "id": 8,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/4118235.cms",
+        "language": "en",
+        "region": "Bhubaneswar",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9703,
+          11.016
+        ]
+      },
+      "properties": {
+        "id": 9,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/7503091.cms",
+        "language": "en",
+        "region": "Coimbatore",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0266,
+          28.4595
+        ]
+      },
+      "properties": {
+        "id": 10,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/6547154.cms",
+        "language": "en",
+        "region": "Gurugram",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6594,
+          26.1432
+        ]
+      },
+      "properties": {
+        "id": 11,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/4118215.cms",
+        "language": "en",
+        "region": "Guwahati",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1476,
+          15.3514
+        ]
+      },
+      "properties": {
+        "id": 12,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/3942695.cms",
+        "language": "en",
+        "region": "Hubballi",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3234,
+          26.4629
+        ]
+      },
+      "properties": {
+        "id": 13,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/3947067.cms",
+        "language": "en",
+        "region": "Kanpur",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3702,
+          22.5656
+        ]
+      },
+      "properties": {
+        "id": 14,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/-2128830821.cms",
+        "language": "en",
+        "region": "Kolkata",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8495,
+          30.9132
+        ]
+      },
+      "properties": {
+        "id": 15,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/3947051.cms",
+        "language": "en",
+        "region": "Ludhiana",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8427,
+          12.868
+        ]
+      },
+      "properties": {
+        "id": 16,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/3942690.cms",
+        "language": "en",
+        "region": "Mangaluru",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6172,
+          12.3137
+        ]
+      },
+      "properties": {
+        "id": 17,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/3942693.cms",
+        "language": "en",
+        "region": "Mysuru",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.352,
+          28.5847
+        ]
+      },
+      "properties": {
+        "id": 18,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/8021716.cms",
+        "language": "en",
+        "region": "Noida",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8554,
+          18.5208
+        ]
+      },
+      "properties": {
+        "id": 19,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/-2128821991.cms",
+        "language": "en",
+        "region": "Pune",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0527,
+          15.3632
+        ]
+      },
+      "properties": {
+        "id": 20,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/3012535.cms",
+        "language": "en",
+        "region": "Goa",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.779,
+          30.7334
+        ]
+      },
+      "properties": {
+        "id": 21,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/-2128816762.cms",
+        "language": "en",
+        "region": "Chandigarh",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.949,
+          26.8463
+        ]
+      },
+      "properties": {
+        "id": 22,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/-2128819658.cms",
+        "language": "en",
+        "region": "Lucknow",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1307,
+          25.6112
+        ]
+      },
+      "properties": {
+        "id": 23,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/-2128817995.cms",
+        "language": "en",
+        "region": "Patna",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7944,
+          26.921
+        ]
+      },
+      "properties": {
+        "id": 24,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/3012544.cms",
+        "language": "en",
+        "region": "Jaipur",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0882,
+          21.1526
+        ]
+      },
+      "properties": {
+        "id": 25,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/442002.cms",
+        "language": "en",
+        "region": "Nagpur",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.7397,
+          22.3101
+        ]
+      },
+      "properties": {
+        "id": 26,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/3942663.cms",
+        "language": "en",
+        "region": "Rajkot",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3253,
+          23.3699
+        ]
+      },
+      "properties": {
+        "id": 27,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/4118245.cms",
+        "language": "en",
+        "region": "Ranchi",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8392,
+          21.2035
+        ]
+      },
+      "properties": {
+        "id": 28,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/3942660.cms",
+        "language": "en",
+        "region": "Surat",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.182,
+          22.3112
+        ]
+      },
+      "properties": {
+        "id": 29,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/3942666.cms",
+        "language": "en",
+        "region": "Vadodara",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.0057,
+          25.3097
+        ]
+      },
+      "properties": {
+        "id": 30,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/3947071.cms",
+        "language": "en",
+        "region": "Varanasi",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9646,
+          19.1997
+        ]
+      },
+      "properties": {
+        "id": 31,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/3831863.cms",
+        "language": "en",
+        "region": "Thane",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9296,
+          8.5304
+        ]
+      },
+      "properties": {
+        "id": 32,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/878156304.cms",
+        "language": "en",
+        "region": "Thiruvananthapuram",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6226,
+          12.9882
+        ]
+      },
+      "properties": {
+        "id": 36,
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/bengaluru-news/rssfeed.xml",
+        "language": "en",
+        "region": "Bengaluru",
+        "time_zone": "IST",
+        "source": "HT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.402,
+          23.2585
+        ]
+      },
+      "properties": {
+        "id": 37,
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/bhopal-news/rssfeed.xml",
+        "language": "en",
+        "region": "Bhopal",
+        "time_zone": "IST",
+        "source": "HT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7841,
+          30.7298
+        ]
+      },
+      "properties": {
+        "id": 38,
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/chandigarh-news/rssfeed.xml",
+        "language": "en",
+        "region": "Chandigarh",
+        "time_zone": "IST",
+        "source": "HT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0437,
+          30.3256
+        ]
+      },
+      "properties": {
+        "id": 39,
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/dehradun-news/rssfeed.xml",
+        "language": "en",
+        "region": "Dehradun",
+        "time_zone": "IST",
+        "source": "HT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1717,
+          28.6274
+        ]
+      },
+      "properties": {
+        "id": 40,
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/delhi-news/rssfeed.xml",
+        "language": "en",
+        "region": "Delhi",
+        "time_zone": "IST",
+        "source": "HT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0299,
+          28.4646
+        ]
+      },
+      "properties": {
+        "id": 41,
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/gurugram-news/rssfeed.xml",
+        "language": "en",
+        "region": "Gurugram",
+        "time_zone": "IST",
+        "source": "HT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8682,
+          22.7204
+        ]
+      },
+      "properties": {
+        "id": 42,
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/indore-news/rssfeed.xml",
+        "language": "en",
+        "region": "Indore",
+        "time_zone": "IST",
+        "source": "HT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.819,
+          26.9155
+        ]
+      },
+      "properties": {
+        "id": 43,
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/jaipur-news/rssfeed.xml",
+        "language": "en",
+        "region": "Jaipur",
+        "time_zone": "IST",
+        "source": "HT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3639,
+          22.5726
+        ]
+      },
+      "properties": {
+        "id": 44,
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/kolkata-news/rssfeed.xml",
+        "language": "en",
+        "region": "Kolkata",
+        "time_zone": "IST",
+        "source": "HT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9346,
+          26.8381
+        ]
+      },
+      "properties": {
+        "id": 45,
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/lucknow-news/rssfeed.xml",
+        "language": "en",
+        "region": "Lucknow",
+        "time_zone": "IST",
+        "source": "HT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8782,
+          19.0785
+        ]
+      },
+      "properties": {
+        "id": 46,
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/mumbai-news/rssfeed.xml",
+        "language": "en",
+        "region": "Mumbai",
+        "time_zone": "IST",
+        "source": "HT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3272,
+          28.5706
+        ]
+      },
+      "properties": {
+        "id": 47,
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/noida-news/rssfeed.xml",
+        "language": "en",
+        "region": "Noida",
+        "time_zone": "IST",
+        "source": "HT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1235,
+          25.6093
+        ]
+      },
+      "properties": {
+        "id": 49,
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/patna-news/rssfeed.xml",
+        "language": "en",
+        "region": "Patna",
+        "time_zone": "IST",
+        "source": "HT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8545,
+          18.5214
+        ]
+      },
+      "properties": {
+        "id": 50,
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/pune-news/rssfeed.xml",
+        "language": "en",
+        "region": "Pune",
+        "time_zone": "IST",
+        "source": "HT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.325,
+          23.3701
+        ]
+      },
+      "properties": {
+        "id": 51,
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/ranchi-news/rssfeed.xml",
+        "language": "en",
+        "region": "Ranchi",
+        "time_zone": "IST",
+        "source": "HT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5005,
+          30.9293
+        ]
+      },
+      "properties": {
+        "id": 56,
+        "link": "https://publish.tribuneindia.com/state/punjab/feed/",
+        "language": "en",
+        "region": "Punjab",
+        "time_zone": "GMT",
+        "source": "Tribune"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0,
+          29.0
+        ]
+      },
+      "properties": {
+        "id": 57,
+        "link": "https://publish.tribuneindia.com/state/haryana/feed/",
+        "language": "en",
+        "region": "Haryana",
+        "time_zone": "GMT",
+        "source": "Tribune"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5619,
+          32.1024
+        ]
+      },
+      "properties": {
+        "id": 58,
+        "link": "https://publish.tribuneindia.com/state/himachal/feed/",
+        "language": "en",
+        "region": "Himachal Pradesh",
+        "time_zone": "GMT",
+        "source": "Tribune"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.163,
+          33.6649
+        ]
+      },
+      "properties": {
+        "id": 59,
+        "link": "https://publish.tribuneindia.com/state/j-k/feed/",
+        "language": "en",
+        "region": "Jammu And Kashmir",
+        "time_zone": "GMT",
+        "source": "Tribune"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8406,
+          21.6637
+        ]
+      },
+      "properties": {
+        "id": 60,
+        "link": "https://publish.tribuneindia.com/state/chhattisgarh/feed/",
+        "language": "en",
+        "region": "Chhattisgarh",
+        "time_zone": "GMT",
+        "source": "Tribune"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5341,
+          23.8143
+        ]
+      },
+      "properties": {
+        "id": 61,
+        "link": "https://publish.tribuneindia.com/state/madhya-pradesh/feed/",
+        "language": "en",
+        "region": "Madhya Pradesh",
+        "time_zone": "GMT",
+        "source": "Tribune"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7685,
+          26.8106
+        ]
+      },
+      "properties": {
+        "id": 62,
+        "link": "https://publish.tribuneindia.com/state/rajasthan/feed/",
+        "language": "en",
+        "region": "Rajasthan",
+        "time_zone": "GMT",
+        "source": "Tribune"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0897,
+          30.0417
+        ]
+      },
+      "properties": {
+        "id": 63,
+        "link": "https://publish.tribuneindia.com/state/uttarakhand/feed/",
+        "language": "en",
+        "region": "Uttarakhand",
+        "time_zone": "GMT",
+        "source": "Tribune"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.8597,
+          27.1303
+        ]
+      },
+      "properties": {
+        "id": 64,
+        "link": "https://publish.tribuneindia.com/state/uttar-pradesh/feed/",
+        "language": "en",
+        "region": "Uttar Pradesh",
+        "time_zone": "GMT",
+        "source": "Tribune"
+      }
+    }
+  ]
+}

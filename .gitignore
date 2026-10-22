@@ -1,0 +1,4 @@
+.DS_Store
+__pycache__/
+# created by the monitor.py example in the README
+seen.json

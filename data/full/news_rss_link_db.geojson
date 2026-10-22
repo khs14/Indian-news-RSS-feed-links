@@ -1,0 +1,3659 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8212,
+          18.9691
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/-2128838597.cms",
+        "language": "en",
+        "region": "Mumbai",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2188,
+          28.6324
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/-2128839596.cms",
+        "language": "en",
+        "region": "Delhi",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5753,
+          12.9768
+        ]
+      },
+      "properties": {
+        "id": 3,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/-2128833038.cms",
+        "language": "en",
+        "region": "Bengaluru",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4752,
+          17.3617
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/-2128816011.cms",
+        "language": "en",
+        "region": "Hyderabad",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2019,
+          13.0721
+        ]
+      },
+      "properties": {
+        "id": 5,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/2950623.cms",
+        "language": "en",
+        "region": "Chennai",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5918,
+          23.0145
+        ]
+      },
+      "properties": {
+        "id": 6,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/-2128821153.cms",
+        "language": "en",
+        "region": "Ahmedabad",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8463,
+          25.4358
+        ]
+      },
+      "properties": {
+        "id": 7,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/3947060.cms",
+        "language": "en",
+        "region": "Prayagraj",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.8331,
+          20.2726
+        ]
+      },
+      "properties": {
+        "id": 8,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/4118235.cms",
+        "language": "en",
+        "region": "Bhubaneswar",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9703,
+          11.016
+        ]
+      },
+      "properties": {
+        "id": 9,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/7503091.cms",
+        "language": "en",
+        "region": "Coimbatore",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0266,
+          28.4595
+        ]
+      },
+      "properties": {
+        "id": 10,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/6547154.cms",
+        "language": "en",
+        "region": "Gurugram",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6594,
+          26.1432
+        ]
+      },
+      "properties": {
+        "id": 11,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/4118215.cms",
+        "language": "en",
+        "region": "Guwahati",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1476,
+          15.3514
+        ]
+      },
+      "properties": {
+        "id": 12,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/3942695.cms",
+        "language": "en",
+        "region": "Hubballi",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3234,
+          26.4629
+        ]
+      },
+      "properties": {
+        "id": 13,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/3947067.cms",
+        "language": "en",
+        "region": "Kanpur",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3702,
+          22.5656
+        ]
+      },
+      "properties": {
+        "id": 14,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/-2128830821.cms",
+        "language": "en",
+        "region": "Kolkata",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8495,
+          30.9132
+        ]
+      },
+      "properties": {
+        "id": 15,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/3947051.cms",
+        "language": "en",
+        "region": "Ludhiana",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8427,
+          12.868
+        ]
+      },
+      "properties": {
+        "id": 16,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/3942690.cms",
+        "language": "en",
+        "region": "Mangaluru",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6172,
+          12.3137
+        ]
+      },
+      "properties": {
+        "id": 17,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/3942693.cms",
+        "language": "en",
+        "region": "Mysuru",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.352,
+          28.5847
+        ]
+      },
+      "properties": {
+        "id": 18,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/8021716.cms",
+        "language": "en",
+        "region": "Noida",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8554,
+          18.5208
+        ]
+      },
+      "properties": {
+        "id": 19,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/-2128821991.cms",
+        "language": "en",
+        "region": "Pune",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0527,
+          15.3632
+        ]
+      },
+      "properties": {
+        "id": 20,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/3012535.cms",
+        "language": "en",
+        "region": "Goa",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.779,
+          30.7334
+        ]
+      },
+      "properties": {
+        "id": 21,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/-2128816762.cms",
+        "language": "en",
+        "region": "Chandigarh",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.949,
+          26.8463
+        ]
+      },
+      "properties": {
+        "id": 22,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/-2128819658.cms",
+        "language": "en",
+        "region": "Lucknow",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1307,
+          25.6112
+        ]
+      },
+      "properties": {
+        "id": 23,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/-2128817995.cms",
+        "language": "en",
+        "region": "Patna",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7944,
+          26.921
+        ]
+      },
+      "properties": {
+        "id": 24,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/3012544.cms",
+        "language": "en",
+        "region": "Jaipur",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0882,
+          21.1526
+        ]
+      },
+      "properties": {
+        "id": 25,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/442002.cms",
+        "language": "en",
+        "region": "Nagpur",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.7397,
+          22.3101
+        ]
+      },
+      "properties": {
+        "id": 26,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/3942663.cms",
+        "language": "en",
+        "region": "Rajkot",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3253,
+          23.3699
+        ]
+      },
+      "properties": {
+        "id": 27,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/4118245.cms",
+        "language": "en",
+        "region": "Ranchi",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8392,
+          21.2035
+        ]
+      },
+      "properties": {
+        "id": 28,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/3942660.cms",
+        "language": "en",
+        "region": "Surat",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.182,
+          22.3112
+        ]
+      },
+      "properties": {
+        "id": 29,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/3942666.cms",
+        "language": "en",
+        "region": "Vadodara",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.0057,
+          25.3097
+        ]
+      },
+      "properties": {
+        "id": 30,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/3947071.cms",
+        "language": "en",
+        "region": "Varanasi",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9646,
+          19.1997
+        ]
+      },
+      "properties": {
+        "id": 31,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/3831863.cms",
+        "language": "en",
+        "region": "Thane",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9296,
+          8.5304
+        ]
+      },
+      "properties": {
+        "id": 32,
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/878156304.cms",
+        "language": "en",
+        "region": "Thiruvananthapuram",
+        "time_zone": "IST",
+        "source": "TOI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6226,
+          12.9882
+        ]
+      },
+      "properties": {
+        "id": 36,
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/bengaluru-news/rssfeed.xml",
+        "language": "en",
+        "region": "Bengaluru",
+        "time_zone": "IST",
+        "source": "HT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.402,
+          23.2585
+        ]
+      },
+      "properties": {
+        "id": 37,
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/bhopal-news/rssfeed.xml",
+        "language": "en",
+        "region": "Bhopal",
+        "time_zone": "IST",
+        "source": "HT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7841,
+          30.7298
+        ]
+      },
+      "properties": {
+        "id": 38,
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/chandigarh-news/rssfeed.xml",
+        "language": "en",
+        "region": "Chandigarh",
+        "time_zone": "IST",
+        "source": "HT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0437,
+          30.3256
+        ]
+      },
+      "properties": {
+        "id": 39,
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/dehradun-news/rssfeed.xml",
+        "language": "en",
+        "region": "Dehradun",
+        "time_zone": "IST",
+        "source": "HT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1717,
+          28.6274
+        ]
+      },
+      "properties": {
+        "id": 40,
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/delhi-news/rssfeed.xml",
+        "language": "en",
+        "region": "Delhi",
+        "time_zone": "IST",
+        "source": "HT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0299,
+          28.4646
+        ]
+      },
+      "properties": {
+        "id": 41,
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/gurugram-news/rssfeed.xml",
+        "language": "en",
+        "region": "Gurugram",
+        "time_zone": "IST",
+        "source": "HT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8682,
+          22.7204
+        ]
+      },
+      "properties": {
+        "id": 42,
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/indore-news/rssfeed.xml",
+        "language": "en",
+        "region": "Indore",
+        "time_zone": "IST",
+        "source": "HT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.819,
+          26.9155
+        ]
+      },
+      "properties": {
+        "id": 43,
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/jaipur-news/rssfeed.xml",
+        "language": "en",
+        "region": "Jaipur",
+        "time_zone": "IST",
+        "source": "HT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3639,
+          22.5726
+        ]
+      },
+      "properties": {
+        "id": 44,
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/kolkata-news/rssfeed.xml",
+        "language": "en",
+        "region": "Kolkata",
+        "time_zone": "IST",
+        "source": "HT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9346,
+          26.8381
+        ]
+      },
+      "properties": {
+        "id": 45,
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/lucknow-news/rssfeed.xml",
+        "language": "en",
+        "region": "Lucknow",
+        "time_zone": "IST",
+        "source": "HT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8782,
+          19.0785
+        ]
+      },
+      "properties": {
+        "id": 46,
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/mumbai-news/rssfeed.xml",
+        "language": "en",
+        "region": "Mumbai",
+        "time_zone": "IST",
+        "source": "HT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3272,
+          28.5706
+        ]
+      },
+      "properties": {
+        "id": 47,
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/noida-news/rssfeed.xml",
+        "language": "en",
+        "region": "Noida",
+        "time_zone": "IST",
+        "source": "HT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1235,
+          25.6093
+        ]
+      },
+      "properties": {
+        "id": 49,
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/patna-news/rssfeed.xml",
+        "language": "en",
+        "region": "Patna",
+        "time_zone": "IST",
+        "source": "HT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8545,
+          18.5214
+        ]
+      },
+      "properties": {
+        "id": 50,
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/pune-news/rssfeed.xml",
+        "language": "en",
+        "region": "Pune",
+        "time_zone": "IST",
+        "source": "HT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.325,
+          23.3701
+        ]
+      },
+      "properties": {
+        "id": 51,
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/ranchi-news/rssfeed.xml",
+        "language": "en",
+        "region": "Ranchi",
+        "time_zone": "IST",
+        "source": "HT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5005,
+          30.9293
+        ]
+      },
+      "properties": {
+        "id": 56,
+        "link": "https://publish.tribuneindia.com/state/punjab/feed/",
+        "language": "en",
+        "region": "Punjab",
+        "time_zone": "GMT",
+        "source": "Tribune"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0,
+          29.0
+        ]
+      },
+      "properties": {
+        "id": 57,
+        "link": "https://publish.tribuneindia.com/state/haryana/feed/",
+        "language": "en",
+        "region": "Haryana",
+        "time_zone": "GMT",
+        "source": "Tribune"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5619,
+          32.1024
+        ]
+      },
+      "properties": {
+        "id": 58,
+        "link": "https://publish.tribuneindia.com/state/himachal/feed/",
+        "language": "en",
+        "region": "Himachal Pradesh",
+        "time_zone": "GMT",
+        "source": "Tribune"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.163,
+          33.6649
+        ]
+      },
+      "properties": {
+        "id": 59,
+        "link": "https://publish.tribuneindia.com/state/j-k/feed/",
+        "language": "en",
+        "region": "Jammu And Kashmir",
+        "time_zone": "GMT",
+        "source": "Tribune"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8406,
+          21.6637
+        ]
+      },
+      "properties": {
+        "id": 60,
+        "link": "https://publish.tribuneindia.com/state/chhattisgarh/feed/",
+        "language": "en",
+        "region": "Chhattisgarh",
+        "time_zone": "GMT",
+        "source": "Tribune"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5341,
+          23.8143
+        ]
+      },
+      "properties": {
+        "id": 61,
+        "link": "https://publish.tribuneindia.com/state/madhya-pradesh/feed/",
+        "language": "en",
+        "region": "Madhya Pradesh",
+        "time_zone": "GMT",
+        "source": "Tribune"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7685,
+          26.8106
+        ]
+      },
+      "properties": {
+        "id": 62,
+        "link": "https://publish.tribuneindia.com/state/rajasthan/feed/",
+        "language": "en",
+        "region": "Rajasthan",
+        "time_zone": "GMT",
+        "source": "Tribune"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0897,
+          30.0417
+        ]
+      },
+      "properties": {
+        "id": 63,
+        "link": "https://publish.tribuneindia.com/state/uttarakhand/feed/",
+        "language": "en",
+        "region": "Uttarakhand",
+        "time_zone": "GMT",
+        "source": "Tribune"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.8597,
+          27.1303
+        ]
+      },
+      "properties": {
+        "id": 64,
+        "link": "https://publish.tribuneindia.com/state/uttar-pradesh/feed/",
+        "language": "en",
+        "region": "Uttar Pradesh",
+        "time_zone": "GMT",
+        "source": "Tribune"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.7453,
+          22.385
+        ]
+      },
+      "properties": {
+        "id": 75,
+        "link": "https://www.gujaratsamachar.com/rss/category/gujarat",
+        "language": "gj",
+        "region": "Gujarat",
+        "time_zone": "GMT",
+        "source": "Gujarat Samachar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3732,
+          26.7606
+        ]
+      },
+      "properties": {
+        "id": 76,
+        "link": "https://www.amarujala.com/rss/gorakhpur.xml",
+        "language": "hi",
+        "region": "Gorakhpur",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7794,
+          30.7333
+        ]
+      },
+      "properties": {
+        "id": 77,
+        "link": "https://www.amarujala.com/rss/chandigarh.xml",
+        "language": "hi",
+        "region": "Chandigarh",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0322,
+          30.3165
+        ]
+      },
+      "properties": {
+        "id": 78,
+        "link": "https://www.amarujala.com/rss/dehradun.xml",
+        "language": "hi",
+        "region": "Dehradun",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9462,
+          26.8467
+        ]
+      },
+      "properties": {
+        "id": 79,
+        "link": "https://www.amarujala.com/rss/lucknow.xml",
+        "language": "hi",
+        "region": "Lucknow",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.164,
+          31.105
+        ]
+      },
+      "properties": {
+        "id": 80,
+        "link": "https://www.amarujala.com/rss/shimla.xml",
+        "language": "hi",
+        "region": "Shimla",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4673,
+          28.9052
+        ]
+      },
+      "properties": {
+        "id": 81,
+        "link": "https://www.amarujala.com/rss/amroha.xml",
+        "language": "hi",
+        "region": "Amroha",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8142,
+          26.1541
+        ]
+      },
+      "properties": {
+        "id": 82,
+        "link": "https://www.amarujala.com/rss/amethi.xml",
+        "language": "hi",
+        "region": "Amethi",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.6915,
+          26.3745
+        ]
+      },
+      "properties": {
+        "id": 83,
+        "link": "https://www.amarujala.com/rss/ambedkar-nagar.xml",
+        "language": "hi",
+        "region": "Ambedkar Nagar",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.088,
+          27.8974
+        ]
+      },
+      "properties": {
+        "id": 84,
+        "link": "https://www.amarujala.com/rss/aligarh.xml",
+        "language": "hi",
+        "region": "Aligarh",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0081,
+          27.1767
+        ]
+      },
+      "properties": {
+        "id": 85,
+        "link": "https://www.amarujala.com/rss/agra.xml",
+        "language": "hi",
+        "region": "Agra",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1859,
+          26.0739
+        ]
+      },
+      "properties": {
+        "id": 86,
+        "link": "https://www.amarujala.com/rss/azamgarh.xml",
+        "language": "hi",
+        "region": "Azamgarh",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4878,
+          26.5393
+        ]
+      },
+      "properties": {
+        "id": 87,
+        "link": "https://www.amarujala.com/rss/unnao.xml",
+        "language": "hi",
+        "region": "Unnao",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6654,
+          27.5625
+        ]
+      },
+      "properties": {
+        "id": 88,
+        "link": "https://www.amarujala.com/rss/etah.xml",
+        "language": "hi",
+        "region": "Etah",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5113,
+          26.4605
+        ]
+      },
+      "properties": {
+        "id": 89,
+        "link": "https://www.amarujala.com/rss/auraiya.xml",
+        "language": "hi",
+        "region": "Auraiya",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9137,
+          27.0514
+        ]
+      },
+      "properties": {
+        "id": 90,
+        "link": "https://www.amarujala.com/rss/kannauj.xml",
+        "language": "hi",
+        "region": "Kannauj",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3319,
+          26.4499
+        ]
+      },
+      "properties": {
+        "id": 91,
+        "link": "https://www.amarujala.com/rss/kanpur.xml",
+        "language": "hi",
+        "region": "Kanpur",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.8897,
+          26.9004
+        ]
+      },
+      "properties": {
+        "id": 92,
+        "link": "https://www.amarujala.com/rss/kushinagar.xml",
+        "language": "hi",
+        "region": "Kushinagar",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.4032,
+          25.3611
+        ]
+      },
+      "properties": {
+        "id": 93,
+        "link": "https://www.amarujala.com/rss/kaushambi.xml",
+        "language": "hi",
+        "region": "Kaushambi",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.5783,
+          25.5878
+        ]
+      },
+      "properties": {
+        "id": 94,
+        "link": "https://www.amarujala.com/rss/ghazipur.xml",
+        "language": "hi",
+        "region": "Ghazipur",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.9619,
+          27.134
+        ]
+      },
+      "properties": {
+        "id": 95,
+        "link": "https://www.amarujala.com/rss/gonda.xml",
+        "language": "hi",
+        "region": "Gonda",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2645,
+          25.2605
+        ]
+      },
+      "properties": {
+        "id": 96,
+        "link": "https://www.amarujala.com/rss/chandauli.xml",
+        "language": "hi",
+        "region": "Chandauli",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.8655,
+          25.1788
+        ]
+      },
+      "properties": {
+        "id": 97,
+        "link": "https://www.amarujala.com/rss/chitrakoot.xml",
+        "language": "hi",
+        "region": "Chitrakoot",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3297,
+          26.1459
+        ]
+      },
+      "properties": {
+        "id": 98,
+        "link": "https://www.amarujala.com/rss/jalaun.xml",
+        "language": "hi",
+        "region": "Jalaun",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.6837,
+          25.7464
+        ]
+      },
+      "properties": {
+        "id": 99,
+        "link": "https://www.amarujala.com/rss/jaunpur.xml",
+        "language": "hi",
+        "region": "Jaunpur",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7791,
+          26.5024
+        ]
+      },
+      "properties": {
+        "id": 100,
+        "link": "https://www.amarujala.com/rss/deoria.xml",
+        "language": "hi",
+        "region": "Deoria",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8075,
+          28.6249
+        ]
+      },
+      "properties": {
+        "id": 101,
+        "link": "https://www.amarujala.com/rss/pilibhit.xml",
+        "language": "hi",
+        "region": "Pilibhit",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.9453,
+          25.8973
+        ]
+      },
+      "properties": {
+        "id": 102,
+        "link": "https://www.amarujala.com/rss/pratapgarh.xml",
+        "language": "hi",
+        "region": "Pratapgarh",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8463,
+          25.4358
+        ]
+      },
+      "properties": {
+        "id": 103,
+        "link": "https://www.amarujala.com/rss/allahabad.xml",
+        "language": "hi",
+        "region": "Prayagraj",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.584,
+          27.3826
+        ]
+      },
+      "properties": {
+        "id": 104,
+        "link": "https://www.amarujala.com/rss/farrukhabad.xml",
+        "language": "hi",
+        "region": "Farrukhabad",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3957,
+          27.1592
+        ]
+      },
+      "properties": {
+        "id": 105,
+        "link": "https://www.amarujala.com/rss/firozabad.xml",
+        "language": "hi",
+        "region": "Firozabad",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1271,
+          28.0311
+        ]
+      },
+      "properties": {
+        "id": 106,
+        "link": "https://www.amarujala.com/rss/budaun.xml",
+        "language": "hi",
+        "region": "Budaun",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4304,
+          28.367
+        ]
+      },
+      "properties": {
+        "id": 107,
+        "link": "https://www.amarujala.com/rss/bareilly.xml",
+        "language": "hi",
+        "region": "Bareilly",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.1857,
+          25.8307
+        ]
+      },
+      "properties": {
+        "id": 108,
+        "link": "https://www.amarujala.com/rss/ballia.xml",
+        "language": "hi",
+        "region": "Ballia",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.763,
+          26.814
+        ]
+      },
+      "properties": {
+        "id": 109,
+        "link": "https://www.amarujala.com/rss/basti.xml",
+        "language": "hi",
+        "region": "Basti",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3395,
+          25.4763
+        ]
+      },
+      "properties": {
+        "id": 110,
+        "link": "https://www.amarujala.com/rss/banda.xml",
+        "language": "hi",
+        "region": "Banda",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2276,
+          28.9428
+        ]
+      },
+      "properties": {
+        "id": 111,
+        "link": "https://www.amarujala.com/rss/baghpat.xml",
+        "language": "hi",
+        "region": "Baghpat",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.1834,
+          26.9268
+        ]
+      },
+      "properties": {
+        "id": 112,
+        "link": "https://www.amarujala.com/rss/barabanki.xml",
+        "language": "hi",
+        "region": "Barabanki",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.5677,
+          25.3805
+        ]
+      },
+      "properties": {
+        "id": 113,
+        "link": "https://www.amarujala.com/rss/bhadohi.xml",
+        "language": "hi",
+        "region": "Bhadohi",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.561,
+          25.9463
+        ]
+      },
+      "properties": {
+        "id": 114,
+        "link": "https://www.amarujala.com/rss/mau.xml",
+        "language": "hi",
+        "region": "Mau",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6737,
+          27.4924
+        ]
+      },
+      "properties": {
+        "id": 115,
+        "link": "https://www.amarujala.com/rss/mathura.xml",
+        "language": "hi",
+        "region": "Mathura",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.5622,
+          27.1446
+        ]
+      },
+      "properties": {
+        "id": 116,
+        "link": "https://www.amarujala.com/rss/maharajganj.xml",
+        "language": "hi",
+        "region": "Maharajganj",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8859,
+          25.2945
+        ]
+      },
+      "properties": {
+        "id": 117,
+        "link": "https://www.amarujala.com/rss/mahoba.xml",
+        "language": "hi",
+        "region": "Mahoba",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.5644,
+          25.1337
+        ]
+      },
+      "properties": {
+        "id": 118,
+        "link": "https://www.amarujala.com/rss/mirzapur.xml",
+        "language": "hi",
+        "region": "Mirzapur",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7085,
+          29.4727
+        ]
+      },
+      "properties": {
+        "id": 119,
+        "link": "https://www.amarujala.com/rss/muzaffarnagar.xml",
+        "language": "hi",
+        "region": "Muzaffarnagar",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7064,
+          28.9845
+        ]
+      },
+      "properties": {
+        "id": 120,
+        "link": "https://www.amarujala.com/rss/meerut.xml",
+        "language": "hi",
+        "region": "Meerut",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0252,
+          27.2282
+        ]
+      },
+      "properties": {
+        "id": 121,
+        "link": "https://www.amarujala.com/rss/mainpuri.xml",
+        "language": "hi",
+        "region": "Mainpuri",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.022,
+          28.7983
+        ]
+      },
+      "properties": {
+        "id": 122,
+        "link": "https://www.amarujala.com/rss/rampur.xml",
+        "language": "hi",
+        "region": "Rampur",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7787,
+          27.9462
+        ]
+      },
+      "properties": {
+        "id": 123,
+        "link": "https://www.amarujala.com/rss/lakhimpur-kheri.xml",
+        "language": "hi",
+        "region": "Lakhimpur Kheri",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4138,
+          24.6912
+        ]
+      },
+      "properties": {
+        "id": 124,
+        "link": "https://www.amarujala.com/rss/lalitpur.xml",
+        "language": "hi",
+        "region": "Lalitpur",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.9739,
+          25.3176
+        ]
+      },
+      "properties": {
+        "id": 125,
+        "link": "https://www.amarujala.com/rss/varanasi.xml",
+        "language": "hi",
+        "region": "Varanasi",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3172,
+          29.4502
+        ]
+      },
+      "properties": {
+        "id": 126,
+        "link": "https://www.amarujala.com/rss/shamli.xml",
+        "language": "hi",
+        "region": "Shamli",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9147,
+          27.8753
+        ]
+      },
+      "properties": {
+        "id": 127,
+        "link": "https://www.amarujala.com/rss/shahjahanpur.xml",
+        "language": "hi",
+        "region": "Shahjahanpur",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5718,
+          28.5904
+        ]
+      },
+      "properties": {
+        "id": 128,
+        "link": "https://www.amarujala.com/rss/sambhal.xml",
+        "language": "hi",
+        "region": "Sambhal",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5552,
+          29.968
+        ]
+      },
+      "properties": {
+        "id": 129,
+        "link": "https://www.amarujala.com/rss/saharanpur.xml",
+        "language": "hi",
+        "region": "Saharanpur",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.821,
+          27.2716
+        ]
+      },
+      "properties": {
+        "id": 130,
+        "link": "https://www.amarujala.com/rss/siddharthnagar.xml",
+        "language": "hi",
+        "region": "Siddharthnagar",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.679,
+          27.568
+        ]
+      },
+      "properties": {
+        "id": 131,
+        "link": "https://www.amarujala.com/rss/sitapur.xml",
+        "language": "hi",
+        "region": "Sitapur",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.066,
+          26.2585
+        ]
+      },
+      "properties": {
+        "id": 132,
+        "link": "https://www.amarujala.com/rss/sultanpur.xml",
+        "language": "hi",
+        "region": "Sultanpur",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.9932,
+          24.457
+        ]
+      },
+      "properties": {
+        "id": 133,
+        "link": "https://www.amarujala.com/rss/sonebhadra.xml",
+        "language": "hi",
+        "region": "Sonebhadra",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5213,
+          31.6862
+        ]
+      },
+      "properties": {
+        "id": 134,
+        "link": "https://www.amarujala.com/rss/hamirpur.xml",
+        "language": "hi",
+        "region": "Hamirpur",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0492,
+          27.5981
+        ]
+      },
+      "properties": {
+        "id": 135,
+        "link": "https://www.amarujala.com/rss/hathras.xml",
+        "language": "hi",
+        "region": "Hathras",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.6467,
+          29.5892
+        ]
+      },
+      "properties": {
+        "id": 136,
+        "link": "https://www.amarujala.com/rss/almora.xml",
+        "language": "hi",
+        "region": "Almora",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4437,
+          30.7306
+        ]
+      },
+      "properties": {
+        "id": 137,
+        "link": "https://www.amarujala.com/rss/uttarkashi.xml",
+        "language": "hi",
+        "region": "Uttarkashi",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5154,
+          28.961
+        ]
+      },
+      "properties": {
+        "id": 138,
+        "link": "https://www.amarujala.com/rss/udham-singh-nagar.xml",
+        "language": "hi",
+        "region": "Udham Singh Nagar",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.2853,
+          30.1158
+        ]
+      },
+      "properties": {
+        "id": 139,
+        "link": "https://www.amarujala.com/rss/rishikesh.xml",
+        "language": "hi",
+        "region": "Rishikesh",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5198,
+          29.7453
+        ]
+      },
+      "properties": {
+        "id": 140,
+        "link": "https://www.amarujala.com/rss/kotdwar.xml",
+        "language": "hi",
+        "region": "Kotdwar",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.091,
+          29.3361
+        ]
+      },
+      "properties": {
+        "id": 141,
+        "link": "https://www.amarujala.com/rss/champawat.xml",
+        "language": "hi",
+        "region": "Champawat",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5661,
+          30.3012
+        ]
+      },
+      "properties": {
+        "id": 142,
+        "link": "https://www.amarujala.com/rss/tehri.xml",
+        "language": "hi",
+        "region": "Tehri",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4534,
+          29.3924
+        ]
+      },
+      "properties": {
+        "id": 143,
+        "link": "https://www.amarujala.com/rss/nainital.xml",
+        "language": "hi",
+        "region": "Nainital",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2182,
+          29.5829
+        ]
+      },
+      "properties": {
+        "id": 144,
+        "link": "https://www.amarujala.com/rss/pithoragarh.xml",
+        "language": "hi",
+        "region": "Pithoragarh",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7745,
+          30.1471
+        ]
+      },
+      "properties": {
+        "id": 145,
+        "link": "https://www.amarujala.com/rss/pauri.xml",
+        "language": "hi",
+        "region": "Pauri",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.7694,
+          29.8404
+        ]
+      },
+      "properties": {
+        "id": 146,
+        "link": "https://www.amarujala.com/rss/bageshwar.xml",
+        "language": "hi",
+        "region": "Bageshwar",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.888,
+          29.8543
+        ]
+      },
+      "properties": {
+        "id": 147,
+        "link": "https://www.amarujala.com/rss/roorkee.xml",
+        "language": "hi",
+        "region": "Roorkee",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1642,
+          29.9457
+        ]
+      },
+      "properties": {
+        "id": 148,
+        "link": "https://www.amarujala.com/rss/haridwar.xml",
+        "language": "hi",
+        "region": "Haridwar",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8604,
+          30.6942
+        ]
+      },
+      "properties": {
+        "id": 149,
+        "link": "https://www.amarujala.com/rss/panchkula.xml",
+        "language": "hi",
+        "region": "Panchkula",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7179,
+          30.7046
+        ]
+      },
+      "properties": {
+        "id": 150,
+        "link": "https://www.amarujala.com/rss/mohali.xml",
+        "language": "hi",
+        "region": "Mohali",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.2519,
+          22.0991
+        ]
+      },
+      "properties": {
+        "id": 151,
+        "link": "https://www.amarujala.com/rss/kabirdham.xml",
+        "language": "hi",
+        "region": "Kabirdham",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.7501,
+          22.3595
+        ]
+      },
+      "properties": {
+        "id": 152,
+        "link": "https://www.amarujala.com/rss/korba.xml",
+        "language": "hi",
+        "region": "Korba",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8661,
+          21.2787
+        ]
+      },
+      "properties": {
+        "id": 153,
+        "link": "https://www.amarujala.com/rss/chhattisgarh.xml",
+        "language": "hi",
+        "region": "Chhattisgarh",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.096,
+          21.1124
+        ]
+      },
+      "properties": {
+        "id": 154,
+        "link": "https://www.amarujala.com/rss/mahasamund.xml",
+        "language": "hi",
+        "region": "Mahasamund",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6296,
+          21.2514
+        ]
+      },
+      "properties": {
+        "id": 155,
+        "link": "https://www.amarujala.com/rss/raipur.xml",
+        "language": "hi",
+        "region": "Raipur",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1416,
+          32.916
+        ]
+      },
+      "properties": {
+        "id": 156,
+        "link": "https://www.amarujala.com/rss/udhampur.xml",
+        "language": "hi",
+        "region": "Udhampur",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5173,
+          32.3863
+        ]
+      },
+      "properties": {
+        "id": 157,
+        "link": "https://www.amarujala.com/rss/kathua.xml",
+        "language": "hi",
+        "region": "Kathua",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3412,
+          33.2778
+        ]
+      },
+      "properties": {
+        "id": 158,
+        "link": "https://www.amarujala.com/rss/jammu-and-kashmir.xml",
+        "language": "hi",
+        "region": "Jammu And Kashmir",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7973,
+          34.0837
+        ]
+      },
+      "properties": {
+        "id": 159,
+        "link": "https://www.amarujala.com/rss/srinagar.xml",
+        "language": "hi",
+        "region": "Srinagar",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2722,
+          23.6913
+        ]
+      },
+      "properties": {
+        "id": 160,
+        "link": "https://www.amarujala.com/rss/jharkhand.xml",
+        "language": "hi",
+        "region": "Jharkhand",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4538,
+          28.6692
+        ]
+      },
+      "properties": {
+        "id": 161,
+        "link": "https://www.amarujala.com/rss/ghaziabad.xml",
+        "language": "hi",
+        "region": "Ghaziabad",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.391,
+          28.5355
+        ]
+      },
+      "properties": {
+        "id": 162,
+        "link": "https://www.amarujala.com/rss/noida.xml",
+        "language": "hi",
+        "region": "Noida",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3178,
+          28.4089
+        ]
+      },
+      "properties": {
+        "id": 163,
+        "link": "https://www.amarujala.com/rss/faridabad.xml",
+        "language": "hi",
+        "region": "Faridabad",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7794,
+          30.7333
+        ]
+      },
+      "properties": {
+        "id": 164,
+        "link": "https://www.amarujala.com/rss/chandigarh-punjab.xml",
+        "language": "hi",
+        "region": "Chandigarh",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5762,
+          31.326
+        ]
+      },
+      "properties": {
+        "id": 165,
+        "link": "https://www.amarujala.com/rss/jalandhar.xml",
+        "language": "hi",
+        "region": "Jalandhar",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3412,
+          31.1471
+        ]
+      },
+      "properties": {
+        "id": 166,
+        "link": "https://www.amarujala.com/rss/punjab.xml",
+        "language": "hi",
+        "region": "Punjab",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4333,
+          27.7972
+        ]
+      },
+      "properties": {
+        "id": 167,
+        "link": "https://www.amarujala.com/rss/kosi.xml",
+        "language": "hi",
+        "region": "Kosi",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.391,
+          26.1197
+        ]
+      },
+      "properties": {
+        "id": 168,
+        "link": "https://www.amarujala.com/rss/muzaffarpur.xml",
+        "language": "hi",
+        "region": "Muzaffarpur",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.8918,
+          26.1542
+        ]
+      },
+      "properties": {
+        "id": 169,
+        "link": "https://www.amarujala.com/rss/darbhanga.xml",
+        "language": "hi",
+        "region": "Darbhanga",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1376,
+          25.5941
+        ]
+      },
+      "properties": {
+        "id": 170,
+        "link": "https://www.amarujala.com/rss/patna.xml",
+        "language": "hi",
+        "region": "Patna",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.4753,
+          25.7771
+        ]
+      },
+      "properties": {
+        "id": 171,
+        "link": "https://www.amarujala.com/rss/purnea.xml",
+        "language": "hi",
+        "region": "Purnea",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2722,
+          25.9644
+        ]
+      },
+      "properties": {
+        "id": 172,
+        "link": "https://www.amarujala.com/rss/bihar.xml",
+        "language": "hi",
+        "region": "Bihar",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0002,
+          24.7914
+        ]
+      },
+      "properties": {
+        "id": 173,
+        "link": "https://www.amarujala.com/rss/gaya.xml",
+        "language": "hi",
+        "region": "Gaya",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.4734,
+          25.3708
+        ]
+      },
+      "properties": {
+        "id": 174,
+        "link": "https://www.amarujala.com/rss/munger.xml",
+        "language": "hi",
+        "region": "Munger",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.8568,
+          25.856
+        ]
+      },
+      "properties": {
+        "id": 175,
+        "link": "https://www.amarujala.com/rss/saran.xml",
+        "language": "hi",
+        "region": "Saran",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8577,
+          22.7196
+        ]
+      },
+      "properties": {
+        "id": 176,
+        "link": "https://www.amarujala.com/rss/indore.xml",
+        "language": "hi",
+        "region": "Indore",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7885,
+          23.1765
+        ]
+      },
+      "properties": {
+        "id": 177,
+        "link": "https://www.amarujala.com/rss/ujjain.xml",
+        "language": "hi",
+        "region": "Ujjain",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.8295,
+          23.531
+        ]
+      },
+      "properties": {
+        "id": 178,
+        "link": "https://www.amarujala.com/rss/umaria.xml",
+        "language": "hi",
+        "region": "Umaria",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3498,
+          21.8314
+        ]
+      },
+      "properties": {
+        "id": 179,
+        "link": "https://www.amarujala.com/rss/khandwa.xml",
+        "language": "hi",
+        "region": "Khandwa",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.6184,
+          21.8257
+        ]
+      },
+      "properties": {
+        "id": 180,
+        "link": "https://www.amarujala.com/rss/khargone.xml",
+        "language": "hi",
+        "region": "Khargone",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1772,
+          26.2124
+        ]
+      },
+      "properties": {
+        "id": 181,
+        "link": "https://www.amarujala.com/rss/gwalior.xml",
+        "language": "hi",
+        "region": "Gwalior",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4387,
+          23.8323
+        ]
+      },
+      "properties": {
+        "id": 182,
+        "link": "https://www.amarujala.com/rss/damoh.xml",
+        "language": "hi",
+        "region": "Damoh",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.218,
+          21.3145
+        ]
+      },
+      "properties": {
+        "id": 183,
+        "link": "https://www.amarujala.com/rss/burhanpur.xml",
+        "language": "hi",
+        "region": "Burhanpur",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4126,
+          23.2599
+        ]
+      },
+      "properties": {
+        "id": 184,
+        "link": "https://www.amarujala.com/rss/bhopal.xml",
+        "language": "hi",
+        "region": "Bhopal",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6569,
+          22.9734
+        ]
+      },
+      "properties": {
+        "id": 185,
+        "link": "https://www.amarujala.com/rss/madhya-pradesh.xml",
+        "language": "hi",
+        "region": "Madhya Pradesh",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.3569,
+          23.3002
+        ]
+      },
+      "properties": {
+        "id": 186,
+        "link": "https://www.amarujala.com/rss/shahdol.xml",
+        "language": "hi",
+        "region": "Shahdol",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7378,
+          23.8388
+        ]
+      },
+      "properties": {
+        "id": 187,
+        "link": "https://www.amarujala.com/rss/sagar.xml",
+        "language": "hi",
+        "region": "Sagar",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0844,
+          23.2032
+        ]
+      },
+      "properties": {
+        "id": 188,
+        "link": "https://www.amarujala.com/rss/sehore.xml",
+        "language": "hi",
+        "region": "Sehore",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6346,
+          27.553
+        ]
+      },
+      "properties": {
+        "id": 189,
+        "link": "https://www.amarujala.com/rss/alwar.xml",
+        "language": "hi",
+        "region": "Alwar",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0268,
+          26.505
+        ]
+      },
+      "properties": {
+        "id": 190,
+        "link": "https://www.amarujala.com/rss/karauli.xml",
+        "language": "hi",
+        "region": "Karauli",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7873,
+          26.9124
+        ]
+      },
+      "properties": {
+        "id": 191,
+        "link": "https://www.amarujala.com/rss/jaipur.xml",
+        "language": "hi",
+        "region": "Jaipur",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0243,
+          26.2389
+        ]
+      },
+      "properties": {
+        "id": 192,
+        "link": "https://www.amarujala.com/rss/jodhpur.xml",
+        "language": "hi",
+        "region": "Jodhpur",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3324,
+          26.8997
+        ]
+      },
+      "properties": {
+        "id": 193,
+        "link": "https://www.amarujala.com/rss/dausa.xml",
+        "language": "hi",
+        "region": "Dausa",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.503,
+          27.2152
+        ]
+      },
+      "properties": {
+        "id": 194,
+        "link": "https://www.amarujala.com/rss/bharatpur.xml",
+        "language": "hi",
+        "region": "Bharatpur",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2179,
+          27.0238
+        ]
+      },
+      "properties": {
+        "id": 195,
+        "link": "https://www.amarujala.com/rss/rajasthan.xml",
+        "language": "hi",
+        "region": "Rajasthan",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7821,
+          30.3752
+        ]
+      },
+      "properties": {
+        "id": 196,
+        "link": "https://www.amarujala.com/rss/ambala.xml",
+        "language": "hi",
+        "region": "Ambala",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9905,
+          29.6857
+        ]
+      },
+      "properties": {
+        "id": 197,
+        "link": "https://www.amarujala.com/rss/karnal.xml",
+        "language": "hi",
+        "region": "Karnal",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8783,
+          29.9695
+        ]
+      },
+      "properties": {
+        "id": 198,
+        "link": "https://www.amarujala.com/rss/kurukshetra.xml",
+        "language": "hi",
+        "region": "Kurukshetra",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.4039,
+          29.8043
+        ]
+      },
+      "properties": {
+        "id": 199,
+        "link": "https://www.amarujala.com/rss/kaithal.xml",
+        "language": "hi",
+        "region": "Kaithal",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2653,
+          28.5921
+        ]
+      },
+      "properties": {
+        "id": 200,
+        "link": "https://www.amarujala.com/rss/charkhi-dadri.xml",
+        "language": "hi",
+        "region": "Charkhi Dadri",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2998,
+          29.3255
+        ]
+      },
+      "properties": {
+        "id": 201,
+        "link": "https://www.amarujala.com/rss/jind.xml",
+        "language": "hi",
+        "region": "Jind",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9314,
+          28.6914
+        ]
+      },
+      "properties": {
+        "id": 202,
+        "link": "https://www.amarujala.com/rss/jhajjar-bahadurgarh.xml",
+        "language": "hi",
+        "region": "Jhajjar Bahadurgarh",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9635,
+          29.3909
+        ]
+      },
+      "properties": {
+        "id": 203,
+        "link": "https://www.amarujala.com/rss/panipat.xml",
+        "language": "hi",
+        "region": "Panipat",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.451,
+          29.5132
+        ]
+      },
+      "properties": {
+        "id": 204,
+        "link": "https://www.amarujala.com/rss/fatehabad.xml",
+        "language": "hi",
+        "region": "Fatehabad",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1068,
+          28.0688
+        ]
+      },
+      "properties": {
+        "id": 205,
+        "link": "https://www.amarujala.com/rss/mahendragarh-narnaul.xml",
+        "language": "hi",
+        "region": "Mahendragarh Narnaul",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2674,
+          30.129
+        ]
+      },
+      "properties": {
+        "id": 206,
+        "link": "https://www.amarujala.com/rss/yamuna-nagar.xml",
+        "language": "hi",
+        "region": "Yamuna Nagar",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6191,
+          28.192
+        ]
+      },
+      "properties": {
+        "id": 207,
+        "link": "https://www.amarujala.com/rss/rewari.xml",
+        "language": "hi",
+        "region": "Rewari",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6066,
+          28.8955
+        ]
+      },
+      "properties": {
+        "id": 208,
+        "link": "https://www.amarujala.com/rss/rohtak.xml",
+        "language": "hi",
+        "region": "Rohtak",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0318,
+          29.5321
+        ]
+      },
+      "properties": {
+        "id": 209,
+        "link": "https://www.amarujala.com/rss/sirsa.xml",
+        "language": "hi",
+        "region": "Sirsa",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0151,
+          28.9931
+        ]
+      },
+      "properties": {
+        "id": 210,
+        "link": "https://www.amarujala.com/rss/sonipat.xml",
+        "language": "hi",
+        "region": "Sonipat",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0856,
+          29.0588
+        ]
+      },
+      "properties": {
+        "id": 211,
+        "link": "https://www.amarujala.com/rss/haryana.xml",
+        "language": "hi",
+        "region": "Haryana",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7217,
+          29.1492
+        ]
+      },
+      "properties": {
+        "id": 212,
+        "link": "https://www.amarujala.com/rss/hisar.xml",
+        "language": "hi",
+        "region": "Hisar",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2708,
+          31.4685
+        ]
+      },
+      "properties": {
+        "id": 213,
+        "link": "https://www.amarujala.com/rss/una.xml",
+        "language": "hi",
+        "region": "Una",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2731,
+          32.1015
+        ]
+      },
+      "properties": {
+        "id": 214,
+        "link": "https://www.amarujala.com/rss/kangra.xml",
+        "language": "hi",
+        "region": "Kangra",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1089,
+          31.9592
+        ]
+      },
+      "properties": {
+        "id": 215,
+        "link": "https://www.amarujala.com/rss/kullu.xml",
+        "language": "hi",
+        "region": "Kullu",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1258,
+          32.5534
+        ]
+      },
+      "properties": {
+        "id": 216,
+        "link": "https://www.amarujala.com/rss/chamba.xml",
+        "language": "hi",
+        "region": "Chamba",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.1409,
+          22.0797
+        ]
+      },
+      "properties": {
+        "id": 217,
+        "link": "https://www.amarujala.com/rss/bilaspur.xml",
+        "language": "hi",
+        "region": "Bilaspur",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.932,
+          31.7087
+        ]
+      },
+      "properties": {
+        "id": 218,
+        "link": "https://www.amarujala.com/rss/mandi.xml",
+        "language": "hi",
+        "region": "Mandi",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4702,
+          30.5628
+        ]
+      },
+      "properties": {
+        "id": 219,
+        "link": "https://www.amarujala.com/rss/sirmour.xml",
+        "language": "hi",
+        "region": "Sirmour",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5213,
+          31.6862
+        ]
+      },
+      "properties": {
+        "id": 220,
+        "link": "https://www.amarujala.com/rss/hamirpur-hp.xml",
+        "language": "hi",
+        "region": "Hamirpur Hp",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5619,
+          32.1024
+        ]
+      },
+      "properties": {
+        "id": 221,
+        "link": "https://www.amarujala.com/rss/himachal-pradesh.xml",
+        "language": "hi",
+        "region": "Himachal Pradesh",
+        "time_zone": "IST",
+        "source": "Amar Ujala"
+      }
+    }
+  ]
+}

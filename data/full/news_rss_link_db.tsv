@@ -1,0 +1,222 @@
+id	link	language	region	latitude	longitude	time_zone	source
+1	http://timesofindia.indiatimes.com/rssfeeds/-2128838597.cms	en	Mumbai	18.9691	72.8212	IST	TOI
+2	https://timesofindia.indiatimes.com/rssfeeds/-2128839596.cms	en	Delhi	28.6324	77.2188	IST	TOI
+3	https://timesofindia.indiatimes.com/rssfeeds/-2128833038.cms	en	Bengaluru	12.9768	77.5753	IST	TOI
+4	https://timesofindia.indiatimes.com/rssfeeds/-2128816011.cms	en	Hyderabad	17.3617	78.4752	IST	TOI
+5	https://timesofindia.indiatimes.com/rssfeeds/2950623.cms	en	Chennai	13.0721	80.2019	IST	TOI
+6	https://timesofindia.indiatimes.com/rssfeeds/-2128821153.cms	en	Ahmedabad	23.0145	72.5918	IST	TOI
+7	https://timesofindia.indiatimes.com/rssfeeds/3947060.cms	en	Prayagraj	25.4358	81.8463	IST	TOI
+8	https://timesofindia.indiatimes.com/rssfeeds/4118235.cms	en	Bhubaneswar	20.2726	85.8331	IST	TOI
+9	https://timesofindia.indiatimes.com/rssfeeds/7503091.cms	en	Coimbatore	11.0160	76.9703	IST	TOI
+10	https://timesofindia.indiatimes.com/rssfeeds/6547154.cms	en	Gurugram	28.4595	77.0266	IST	TOI
+11	https://timesofindia.indiatimes.com/rssfeeds/4118215.cms	en	Guwahati	26.1432	91.6594	IST	TOI
+12	https://timesofindia.indiatimes.com/rssfeeds/3942695.cms	en	Hubballi	15.3514	75.1476	IST	TOI
+13	https://timesofindia.indiatimes.com/rssfeeds/3947067.cms	en	Kanpur	26.4629	80.3234	IST	TOI
+14	https://timesofindia.indiatimes.com/rssfeeds/-2128830821.cms	en	Kolkata	22.5656	88.3702	IST	TOI
+15	https://timesofindia.indiatimes.com/rssfeeds/3947051.cms	en	Ludhiana	30.9132	75.8495	IST	TOI
+16	https://timesofindia.indiatimes.com/rssfeeds/3942690.cms	en	Mangaluru	12.8680	74.8427	IST	TOI
+17	https://timesofindia.indiatimes.com/rssfeeds/3942693.cms	en	Mysuru	12.3137	76.6172	IST	TOI
+18	https://timesofindia.indiatimes.com/rssfeeds/8021716.cms	en	Noida	28.5847	77.3520	IST	TOI
+19	https://timesofindia.indiatimes.com/rssfeeds/-2128821991.cms	en	Pune	18.5208	73.8554	IST	TOI
+20	https://timesofindia.indiatimes.com/rssfeeds/3012535.cms	en	Goa	15.3632	74.0527	IST	TOI
+21	https://timesofindia.indiatimes.com/rssfeeds/-2128816762.cms	en	Chandigarh	30.7334	76.7790	IST	TOI
+22	https://timesofindia.indiatimes.com/rssfeeds/-2128819658.cms	en	Lucknow	26.8463	80.9490	IST	TOI
+23	https://timesofindia.indiatimes.com/rssfeeds/-2128817995.cms	en	Patna	25.6112	85.1307	IST	TOI
+24	https://timesofindia.indiatimes.com/rssfeeds/3012544.cms	en	Jaipur	26.9210	75.7944	IST	TOI
+25	https://timesofindia.indiatimes.com/rssfeeds/442002.cms	en	Nagpur	21.1526	79.0882	IST	TOI
+26	https://timesofindia.indiatimes.com/rssfeeds/3942663.cms	en	Rajkot	22.3101	70.7397	IST	TOI
+27	https://timesofindia.indiatimes.com/rssfeeds/4118245.cms	en	Ranchi	23.3699	85.3253	IST	TOI
+28	https://timesofindia.indiatimes.com/rssfeeds/3942660.cms	en	Surat	21.2035	72.8392	IST	TOI
+29	https://timesofindia.indiatimes.com/rssfeeds/3942666.cms	en	Vadodara	22.3112	73.1820	IST	TOI
+30	https://timesofindia.indiatimes.com/rssfeeds/3947071.cms	en	Varanasi	25.3097	83.0057	IST	TOI
+31	https://timesofindia.indiatimes.com/rssfeeds/3831863.cms	en	Thane	19.1997	72.9646	IST	TOI
+32	https://timesofindia.indiatimes.com/rssfeeds/878156304.cms	en	Thiruvananthapuram	8.5304	76.9296	IST	TOI
+33	https://www.thehindu.com/news/national/feeder/default.rss	en				IST	Hindu
+34	https://www.thehindu.com/news/cities/feeder/default.rss	en				IST	Hindu
+35	https://www.hindustantimes.com/feeds/rss/cities/rssfeed.xml	en				IST	HT
+36	https://www.hindustantimes.com/feeds/rss/cities/bengaluru-news/rssfeed.xml	en	Bengaluru	12.9882	77.6226	IST	HT
+37	https://www.hindustantimes.com/feeds/rss/cities/bhopal-news/rssfeed.xml	en	Bhopal	23.2585	77.4020	IST	HT
+38	https://www.hindustantimes.com/feeds/rss/cities/chandigarh-news/rssfeed.xml	en	Chandigarh	30.7298	76.7841	IST	HT
+39	https://www.hindustantimes.com/feeds/rss/cities/dehradun-news/rssfeed.xml	en	Dehradun	30.3256	78.0437	IST	HT
+40	https://www.hindustantimes.com/feeds/rss/cities/delhi-news/rssfeed.xml	en	Delhi	28.6274	77.1717	IST	HT
+41	https://www.hindustantimes.com/feeds/rss/cities/gurugram-news/rssfeed.xml	en	Gurugram	28.4646	77.0299	IST	HT
+42	https://www.hindustantimes.com/feeds/rss/cities/indore-news/rssfeed.xml	en	Indore	22.7204	75.8682	IST	HT
+43	https://www.hindustantimes.com/feeds/rss/cities/jaipur-news/rssfeed.xml	en	Jaipur	26.9155	75.8190	IST	HT
+44	https://www.hindustantimes.com/feeds/rss/cities/kolkata-news/rssfeed.xml	en	Kolkata	22.5726	88.3639	IST	HT
+45	https://www.hindustantimes.com/feeds/rss/cities/lucknow-news/rssfeed.xml	en	Lucknow	26.8381	80.9346	IST	HT
+46	https://www.hindustantimes.com/feeds/rss/cities/mumbai-news/rssfeed.xml	en	Mumbai	19.0785	72.8782	IST	HT
+47	https://www.hindustantimes.com/feeds/rss/cities/noida-news/rssfeed.xml	en	Noida	28.5706	77.3272	IST	HT
+48	https://www.hindustantimes.com/feeds/rss/cities/others/rssfeed.xml	en				IST	HT
+49	https://www.hindustantimes.com/feeds/rss/cities/patna-news/rssfeed.xml	en	Patna	25.6093	85.1235	IST	HT
+50	https://www.hindustantimes.com/feeds/rss/cities/pune-news/rssfeed.xml	en	Pune	18.5214	73.8545	IST	HT
+51	https://www.hindustantimes.com/feeds/rss/cities/ranchi-news/rssfeed.xml	en	Ranchi	23.3701	85.3250	IST	HT
+52	https://www.livemint.com/rss/news	en				IST	Mint
+53	https://www.news18.com/commonfeeds/v1/eng/rss/india.xml	en				IST	News18
+54	https://www.dnaindia.com/feeds/india.xml	en				GMT	DNA
+55	https://www.firstpost.com/commonfeeds/v1/mfp/rss/india.xml	en				IST	First Post
+56	https://publish.tribuneindia.com/state/punjab/feed/	en	Punjab	30.9293	75.5005	GMT	Tribune
+57	https://publish.tribuneindia.com/state/haryana/feed/	en	Haryana	29.0000	76.0000	GMT	Tribune
+58	https://publish.tribuneindia.com/state/himachal/feed/	en	Himachal Pradesh	32.1024	77.5619	GMT	Tribune
+59	https://publish.tribuneindia.com/state/j-k/feed/	en	Jammu And Kashmir	33.6649	75.1630	GMT	Tribune
+60	https://publish.tribuneindia.com/state/chhattisgarh/feed/	en	Chhattisgarh	21.6637	81.8406	GMT	Tribune
+61	https://publish.tribuneindia.com/state/madhya-pradesh/feed/	en	Madhya Pradesh	23.8143	77.5341	GMT	Tribune
+62	https://publish.tribuneindia.com/state/rajasthan/feed/	en	Rajasthan	26.8106	73.7685	GMT	Tribune
+63	https://publish.tribuneindia.com/state/uttarakhand/feed/	en	Uttarakhand	30.0417	79.0897	GMT	Tribune
+64	https://publish.tribuneindia.com/state/uttar-pradesh/feed/	en	Uttar Pradesh	27.1303	80.8597	GMT	Tribune
+65	https://publish.tribuneindia.com/newscategory/india/feed/	en				GMT	Tribune
+66	https://www.oneindia.com/rss/feeds/oneindia-fb.xml	en				IST	One India
+67	https://www.indiatoday.in/rss/1206578	en				IST	India Today
+68	https://www.freepressjournal.in/stories.rss	en				GMT	Free Press Journal
+69	https://www.deccanchronicle.com/google_feeds.xml	en				GMT	Deccan Chronicle
+70	https://news.abplive.com/news/india/feed	en				IST	abp
+71	https://www.oneindia.com/rss/feeds/news-india-fb.xml	en				IST	One India
+72	https://www.latestly.com/rss/india.xml	en				IST	Latestly
+73	https://zeenews.india.com/rss/india-national-news.xml	en				GMT	Zee News
+74	https://www.indiatvnews.com/rssnews/topstory-india.xml	en				IST	India TV
+75	https://www.gujaratsamachar.com/rss/category/gujarat	gj	Gujarat	22.3850	71.7453	GMT	Gujarat Samachar
+76	https://www.amarujala.com/rss/gorakhpur.xml	hi	Gorakhpur	26.7606	83.3732	IST	Amar Ujala
+77	https://www.amarujala.com/rss/chandigarh.xml	hi	Chandigarh	30.7333	76.7794	IST	Amar Ujala
+78	https://www.amarujala.com/rss/dehradun.xml	hi	Dehradun	30.3165	78.0322	IST	Amar Ujala
+79	https://www.amarujala.com/rss/lucknow.xml	hi	Lucknow	26.8467	80.9462	IST	Amar Ujala
+80	https://www.amarujala.com/rss/shimla.xml	hi	Shimla	31.1050	77.1640	IST	Amar Ujala
+81	https://www.amarujala.com/rss/amroha.xml	hi	Amroha	28.9052	78.4673	IST	Amar Ujala
+82	https://www.amarujala.com/rss/amethi.xml	hi	Amethi	26.1541	81.8142	IST	Amar Ujala
+83	https://www.amarujala.com/rss/ambedkar-nagar.xml	hi	Ambedkar Nagar	26.3745	82.6915	IST	Amar Ujala
+84	https://www.amarujala.com/rss/aligarh.xml	hi	Aligarh	27.8974	78.0880	IST	Amar Ujala
+85	https://www.amarujala.com/rss/agra.xml	hi	Agra	27.1767	78.0081	IST	Amar Ujala
+86	https://www.amarujala.com/rss/azamgarh.xml	hi	Azamgarh	26.0739	83.1859	IST	Amar Ujala
+87	https://www.amarujala.com/rss/unnao.xml	hi	Unnao	26.5393	80.4878	IST	Amar Ujala
+88	https://www.amarujala.com/rss/etah.xml	hi	Etah	27.5625	78.6654	IST	Amar Ujala
+89	https://www.amarujala.com/rss/auraiya.xml	hi	Auraiya	26.4605	79.5113	IST	Amar Ujala
+90	https://www.amarujala.com/rss/kannauj.xml	hi	Kannauj	27.0514	79.9137	IST	Amar Ujala
+91	https://www.amarujala.com/rss/kanpur.xml	hi	Kanpur	26.4499	80.3319	IST	Amar Ujala
+92	https://www.amarujala.com/rss/kushinagar.xml	hi	Kushinagar	26.9004	83.8897	IST	Amar Ujala
+93	https://www.amarujala.com/rss/kaushambi.xml	hi	Kaushambi	25.3611	81.4032	IST	Amar Ujala
+94	https://www.amarujala.com/rss/ghazipur.xml	hi	Ghazipur	25.5878	83.5783	IST	Amar Ujala
+95	https://www.amarujala.com/rss/gonda.xml	hi	Gonda	27.1340	81.9619	IST	Amar Ujala
+96	https://www.amarujala.com/rss/chandauli.xml	hi	Chandauli	25.2605	83.2645	IST	Amar Ujala
+97	https://www.amarujala.com/rss/chitrakoot.xml	hi	Chitrakoot	25.1788	80.8655	IST	Amar Ujala
+98	https://www.amarujala.com/rss/jalaun.xml	hi	Jalaun	26.1459	79.3297	IST	Amar Ujala
+99	https://www.amarujala.com/rss/jaunpur.xml	hi	Jaunpur	25.7464	82.6837	IST	Amar Ujala
+100	https://www.amarujala.com/rss/deoria.xml	hi	Deoria	26.5024	83.7791	IST	Amar Ujala
+101	https://www.amarujala.com/rss/pilibhit.xml	hi	Pilibhit	28.6249	79.8075	IST	Amar Ujala
+102	https://www.amarujala.com/rss/pratapgarh.xml	hi	Pratapgarh	25.8973	81.9453	IST	Amar Ujala
+103	https://www.amarujala.com/rss/allahabad.xml	hi	Prayagraj	25.4358	81.8463	IST	Amar Ujala
+104	https://www.amarujala.com/rss/farrukhabad.xml	hi	Farrukhabad	27.3826	79.5840	IST	Amar Ujala
+105	https://www.amarujala.com/rss/firozabad.xml	hi	Firozabad	27.1592	78.3957	IST	Amar Ujala
+106	https://www.amarujala.com/rss/budaun.xml	hi	Budaun	28.0311	79.1271	IST	Amar Ujala
+107	https://www.amarujala.com/rss/bareilly.xml	hi	Bareilly	28.3670	79.4304	IST	Amar Ujala
+108	https://www.amarujala.com/rss/ballia.xml	hi	Ballia	25.8307	84.1857	IST	Amar Ujala
+109	https://www.amarujala.com/rss/basti.xml	hi	Basti	26.8140	82.7630	IST	Amar Ujala
+110	https://www.amarujala.com/rss/banda.xml	hi	Banda	25.4763	80.3395	IST	Amar Ujala
+111	https://www.amarujala.com/rss/baghpat.xml	hi	Baghpat	28.9428	77.2276	IST	Amar Ujala
+112	https://www.amarujala.com/rss/barabanki.xml	hi	Barabanki	26.9268	81.1834	IST	Amar Ujala
+113	https://www.amarujala.com/rss/bhadohi.xml	hi	Bhadohi	25.3805	82.5677	IST	Amar Ujala
+114	https://www.amarujala.com/rss/mau.xml	hi	Mau	25.9463	83.5610	IST	Amar Ujala
+115	https://www.amarujala.com/rss/mathura.xml	hi	Mathura	27.4924	77.6737	IST	Amar Ujala
+116	https://www.amarujala.com/rss/maharajganj.xml	hi	Maharajganj	27.1446	83.5622	IST	Amar Ujala
+117	https://www.amarujala.com/rss/mahoba.xml	hi	Mahoba	25.2945	79.8859	IST	Amar Ujala
+118	https://www.amarujala.com/rss/mirzapur.xml	hi	Mirzapur	25.1337	82.5644	IST	Amar Ujala
+119	https://www.amarujala.com/rss/muzaffarnagar.xml	hi	Muzaffarnagar	29.4727	77.7085	IST	Amar Ujala
+120	https://www.amarujala.com/rss/meerut.xml	hi	Meerut	28.9845	77.7064	IST	Amar Ujala
+121	https://www.amarujala.com/rss/mainpuri.xml	hi	Mainpuri	27.2282	79.0252	IST	Amar Ujala
+122	https://www.amarujala.com/rss/rampur.xml	hi	Rampur	28.7983	79.0220	IST	Amar Ujala
+123	https://www.amarujala.com/rss/lakhimpur-kheri.xml	hi	Lakhimpur Kheri	27.9462	80.7787	IST	Amar Ujala
+124	https://www.amarujala.com/rss/lalitpur.xml	hi	Lalitpur	24.6912	78.4138	IST	Amar Ujala
+125	https://www.amarujala.com/rss/varanasi.xml	hi	Varanasi	25.3176	82.9739	IST	Amar Ujala
+126	https://www.amarujala.com/rss/shamli.xml	hi	Shamli	29.4502	77.3172	IST	Amar Ujala
+127	https://www.amarujala.com/rss/shahjahanpur.xml	hi	Shahjahanpur	27.8753	79.9147	IST	Amar Ujala
+128	https://www.amarujala.com/rss/sambhal.xml	hi	Sambhal	28.5904	78.5718	IST	Amar Ujala
+129	https://www.amarujala.com/rss/saharanpur.xml	hi	Saharanpur	29.9680	77.5552	IST	Amar Ujala
+130	https://www.amarujala.com/rss/siddharthnagar.xml	hi	Siddharthnagar	27.2716	82.8210	IST	Amar Ujala
+131	https://www.amarujala.com/rss/sitapur.xml	hi	Sitapur	27.5680	80.6790	IST	Amar Ujala
+132	https://www.amarujala.com/rss/sultanpur.xml	hi	Sultanpur	26.2585	82.0660	IST	Amar Ujala
+133	https://www.amarujala.com/rss/sonebhadra.xml	hi	Sonebhadra	24.4570	82.9932	IST	Amar Ujala
+134	https://www.amarujala.com/rss/hamirpur.xml	hi	Hamirpur	31.6862	76.5213	IST	Amar Ujala
+135	https://www.amarujala.com/rss/hathras.xml	hi	Hathras	27.5981	78.0492	IST	Amar Ujala
+136	https://www.amarujala.com/rss/almora.xml	hi	Almora	29.5892	79.6467	IST	Amar Ujala
+137	https://www.amarujala.com/rss/uttarkashi.xml	hi	Uttarkashi	30.7306	78.4437	IST	Amar Ujala
+138	https://www.amarujala.com/rss/udham-singh-nagar.xml	hi	Udham Singh Nagar	28.9610	79.5154	IST	Amar Ujala
+139	https://www.amarujala.com/rss/rishikesh.xml	hi	Rishikesh	30.1158	78.2853	IST	Amar Ujala
+140	https://www.amarujala.com/rss/kotdwar.xml	hi	Kotdwar	29.7453	78.5198	IST	Amar Ujala
+141	https://www.amarujala.com/rss/champawat.xml	hi	Champawat	29.3361	80.0910	IST	Amar Ujala
+142	https://www.amarujala.com/rss/tehri.xml	hi	Tehri	30.3012	78.5661	IST	Amar Ujala
+143	https://www.amarujala.com/rss/nainital.xml	hi	Nainital	29.3924	79.4534	IST	Amar Ujala
+144	https://www.amarujala.com/rss/pithoragarh.xml	hi	Pithoragarh	29.5829	80.2182	IST	Amar Ujala
+145	https://www.amarujala.com/rss/pauri.xml	hi	Pauri	30.1471	78.7745	IST	Amar Ujala
+146	https://www.amarujala.com/rss/bageshwar.xml	hi	Bageshwar	29.8404	79.7694	IST	Amar Ujala
+147	https://www.amarujala.com/rss/roorkee.xml	hi	Roorkee	29.8543	77.8880	IST	Amar Ujala
+148	https://www.amarujala.com/rss/haridwar.xml	hi	Haridwar	29.9457	78.1642	IST	Amar Ujala
+149	https://www.amarujala.com/rss/panchkula.xml	hi	Panchkula	30.6942	76.8604	IST	Amar Ujala
+150	https://www.amarujala.com/rss/mohali.xml	hi	Mohali	30.7046	76.7179	IST	Amar Ujala
+151	https://www.amarujala.com/rss/kabirdham.xml	hi	Kabirdham	22.0991	81.2519	IST	Amar Ujala
+152	https://www.amarujala.com/rss/korba.xml	hi	Korba	22.3595	82.7501	IST	Amar Ujala
+153	https://www.amarujala.com/rss/chhattisgarh.xml	hi	Chhattisgarh	21.2787	81.8661	IST	Amar Ujala
+154	https://www.amarujala.com/rss/mahasamund.xml	hi	Mahasamund	21.1124	82.0960	IST	Amar Ujala
+155	https://www.amarujala.com/rss/raipur.xml	hi	Raipur	21.2514	81.6296	IST	Amar Ujala
+156	https://www.amarujala.com/rss/udhampur.xml	hi	Udhampur	32.9160	75.1416	IST	Amar Ujala
+157	https://www.amarujala.com/rss/kathua.xml	hi	Kathua	32.3863	75.5173	IST	Amar Ujala
+158	https://www.amarujala.com/rss/jammu-and-kashmir.xml	hi	Jammu And Kashmir	33.2778	75.3412	IST	Amar Ujala
+159	https://www.amarujala.com/rss/srinagar.xml	hi	Srinagar	34.0837	74.7973	IST	Amar Ujala
+160	https://www.amarujala.com/rss/jharkhand.xml	hi	Jharkhand	23.6913	85.2722	IST	Amar Ujala
+161	https://www.amarujala.com/rss/ghaziabad.xml	hi	Ghaziabad	28.6692	77.4538	IST	Amar Ujala
+162	https://www.amarujala.com/rss/noida.xml	hi	Noida	28.5355	77.3910	IST	Amar Ujala
+163	https://www.amarujala.com/rss/faridabad.xml	hi	Faridabad	28.4089	77.3178	IST	Amar Ujala
+164	https://www.amarujala.com/rss/chandigarh-punjab.xml	hi	Chandigarh	30.7333	76.7794	IST	Amar Ujala
+165	https://www.amarujala.com/rss/jalandhar.xml	hi	Jalandhar	31.3260	75.5762	IST	Amar Ujala
+166	https://www.amarujala.com/rss/punjab.xml	hi	Punjab	31.1471	75.3412	IST	Amar Ujala
+167	https://www.amarujala.com/rss/kosi.xml	hi	Kosi	27.7972	77.4333	IST	Amar Ujala
+168	https://www.amarujala.com/rss/muzaffarpur.xml	hi	Muzaffarpur	26.1197	85.3910	IST	Amar Ujala
+169	https://www.amarujala.com/rss/darbhanga.xml	hi	Darbhanga	26.1542	85.8918	IST	Amar Ujala
+170	https://www.amarujala.com/rss/patna.xml	hi	Patna	25.5941	85.1376	IST	Amar Ujala
+171	https://www.amarujala.com/rss/purnea.xml	hi	Purnea	25.7771	87.4753	IST	Amar Ujala
+172	https://www.amarujala.com/rss/bihar.xml	hi	Bihar	25.9644	85.2722	IST	Amar Ujala
+173	https://www.amarujala.com/rss/gaya.xml	hi	Gaya	24.7914	85.0002	IST	Amar Ujala
+174	https://www.amarujala.com/rss/munger.xml	hi	Munger	25.3708	86.4734	IST	Amar Ujala
+175	https://www.amarujala.com/rss/saran.xml	hi	Saran	25.8560	84.8568	IST	Amar Ujala
+176	https://www.amarujala.com/rss/indore.xml	hi	Indore	22.7196	75.8577	IST	Amar Ujala
+177	https://www.amarujala.com/rss/ujjain.xml	hi	Ujjain	23.1765	75.7885	IST	Amar Ujala
+178	https://www.amarujala.com/rss/umaria.xml	hi	Umaria	23.5310	80.8295	IST	Amar Ujala
+179	https://www.amarujala.com/rss/khandwa.xml	hi	Khandwa	21.8314	76.3498	IST	Amar Ujala
+180	https://www.amarujala.com/rss/khargone.xml	hi	Khargone	21.8257	75.6184	IST	Amar Ujala
+181	https://www.amarujala.com/rss/gwalior.xml	hi	Gwalior	26.2124	78.1772	IST	Amar Ujala
+182	https://www.amarujala.com/rss/damoh.xml	hi	Damoh	23.8323	79.4387	IST	Amar Ujala
+183	https://www.amarujala.com/rss/burhanpur.xml	hi	Burhanpur	21.3145	76.2180	IST	Amar Ujala
+184	https://www.amarujala.com/rss/bhopal.xml	hi	Bhopal	23.2599	77.4126	IST	Amar Ujala
+185	https://www.amarujala.com/rss/madhya-pradesh.xml	hi	Madhya Pradesh	22.9734	78.6569	IST	Amar Ujala
+186	https://www.amarujala.com/rss/shahdol.xml	hi	Shahdol	23.3002	81.3569	IST	Amar Ujala
+187	https://www.amarujala.com/rss/sagar.xml	hi	Sagar	23.8388	78.7378	IST	Amar Ujala
+188	https://www.amarujala.com/rss/sehore.xml	hi	Sehore	23.2032	77.0844	IST	Amar Ujala
+189	https://www.amarujala.com/rss/alwar.xml	hi	Alwar	27.5530	76.6346	IST	Amar Ujala
+190	https://www.amarujala.com/rss/karauli.xml	hi	Karauli	26.5050	77.0268	IST	Amar Ujala
+191	https://www.amarujala.com/rss/jaipur.xml	hi	Jaipur	26.9124	75.7873	IST	Amar Ujala
+192	https://www.amarujala.com/rss/jodhpur.xml	hi	Jodhpur	26.2389	73.0243	IST	Amar Ujala
+193	https://www.amarujala.com/rss/dausa.xml	hi	Dausa	26.8997	76.3324	IST	Amar Ujala
+194	https://www.amarujala.com/rss/bharatpur.xml	hi	Bharatpur	27.2152	77.5030	IST	Amar Ujala
+195	https://www.amarujala.com/rss/rajasthan.xml	hi	Rajasthan	27.0238	74.2179	IST	Amar Ujala
+196	https://www.amarujala.com/rss/ambala.xml	hi	Ambala	30.3752	76.7821	IST	Amar Ujala
+197	https://www.amarujala.com/rss/karnal.xml	hi	Karnal	29.6857	76.9905	IST	Amar Ujala
+198	https://www.amarujala.com/rss/kurukshetra.xml	hi	Kurukshetra	29.9695	76.8783	IST	Amar Ujala
+199	https://www.amarujala.com/rss/kaithal.xml	hi	Kaithal	29.8043	76.4039	IST	Amar Ujala
+200	https://www.amarujala.com/rss/charkhi-dadri.xml	hi	Charkhi Dadri	28.5921	76.2653	IST	Amar Ujala
+201	https://www.amarujala.com/rss/jind.xml	hi	Jind	29.3255	76.2998	IST	Amar Ujala
+202	https://www.amarujala.com/rss/jhajjar-bahadurgarh.xml	hi	Jhajjar Bahadurgarh	28.6914	76.9314	IST	Amar Ujala
+203	https://www.amarujala.com/rss/panipat.xml	hi	Panipat	29.3909	76.9635	IST	Amar Ujala
+204	https://www.amarujala.com/rss/fatehabad.xml	hi	Fatehabad	29.5132	75.4510	IST	Amar Ujala
+205	https://www.amarujala.com/rss/mahendragarh-narnaul.xml	hi	Mahendragarh Narnaul	28.0688	76.1068	IST	Amar Ujala
+206	https://www.amarujala.com/rss/yamuna-nagar.xml	hi	Yamuna Nagar	30.1290	77.2674	IST	Amar Ujala
+207	https://www.amarujala.com/rss/rewari.xml	hi	Rewari	28.1920	76.6191	IST	Amar Ujala
+208	https://www.amarujala.com/rss/rohtak.xml	hi	Rohtak	28.8955	76.6066	IST	Amar Ujala
+209	https://www.amarujala.com/rss/sirsa.xml	hi	Sirsa	29.5321	75.0318	IST	Amar Ujala
+210	https://www.amarujala.com/rss/sonipat.xml	hi	Sonipat	28.9931	77.0151	IST	Amar Ujala
+211	https://www.amarujala.com/rss/haryana.xml	hi	Haryana	29.0588	76.0856	IST	Amar Ujala
+212	https://www.amarujala.com/rss/hisar.xml	hi	Hisar	29.1492	75.7217	IST	Amar Ujala
+213	https://www.amarujala.com/rss/una.xml	hi	Una	31.4685	76.2708	IST	Amar Ujala
+214	https://www.amarujala.com/rss/kangra.xml	hi	Kangra	32.1015	76.2731	IST	Amar Ujala
+215	https://www.amarujala.com/rss/kullu.xml	hi	Kullu	31.9592	77.1089	IST	Amar Ujala
+216	https://www.amarujala.com/rss/chamba.xml	hi	Chamba	32.5534	76.1258	IST	Amar Ujala
+217	https://www.amarujala.com/rss/bilaspur.xml	hi	Bilaspur	22.0797	82.1409	IST	Amar Ujala
+218	https://www.amarujala.com/rss/mandi.xml	hi	Mandi	31.7087	76.9320	IST	Amar Ujala
+219	https://www.amarujala.com/rss/sirmour.xml	hi	Sirmour	30.5628	77.4702	IST	Amar Ujala
+220	https://www.amarujala.com/rss/hamirpur-hp.xml	hi	Hamirpur Hp	31.6862	76.5213	IST	Amar Ujala
+221	https://www.amarujala.com/rss/himachal-pradesh.xml	hi	Himachal Pradesh	32.1024	77.5619	IST	Amar Ujala

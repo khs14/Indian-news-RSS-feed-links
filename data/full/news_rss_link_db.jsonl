@@ -1,0 +1,221 @@
+{"id": 1, "link": "http://timesofindia.indiatimes.com/rssfeeds/-2128838597.cms", "language": "en", "region": "Mumbai", "latitude": 18.9691, "longitude": 72.8212, "time_zone": "IST", "source": "TOI"}
+{"id": 2, "link": "https://timesofindia.indiatimes.com/rssfeeds/-2128839596.cms", "language": "en", "region": "Delhi", "latitude": 28.6324, "longitude": 77.2188, "time_zone": "IST", "source": "TOI"}
+{"id": 3, "link": "https://timesofindia.indiatimes.com/rssfeeds/-2128833038.cms", "language": "en", "region": "Bengaluru", "latitude": 12.9768, "longitude": 77.5753, "time_zone": "IST", "source": "TOI"}
+{"id": 4, "link": "https://timesofindia.indiatimes.com/rssfeeds/-2128816011.cms", "language": "en", "region": "Hyderabad", "latitude": 17.3617, "longitude": 78.4752, "time_zone": "IST", "source": "TOI"}
+{"id": 5, "link": "https://timesofindia.indiatimes.com/rssfeeds/2950623.cms", "language": "en", "region": "Chennai", "latitude": 13.0721, "longitude": 80.2019, "time_zone": "IST", "source": "TOI"}
+{"id": 6, "link": "https://timesofindia.indiatimes.com/rssfeeds/-2128821153.cms", "language": "en", "region": "Ahmedabad", "latitude": 23.0145, "longitude": 72.5918, "time_zone": "IST", "source": "TOI"}
+{"id": 7, "link": "https://timesofindia.indiatimes.com/rssfeeds/3947060.cms", "language": "en", "region": "Prayagraj", "latitude": 25.4358, "longitude": 81.8463, "time_zone": "IST", "source": "TOI"}
+{"id": 8, "link": "https://timesofindia.indiatimes.com/rssfeeds/4118235.cms", "language": "en", "region": "Bhubaneswar", "latitude": 20.2726, "longitude": 85.8331, "time_zone": "IST", "source": "TOI"}
+{"id": 9, "link": "https://timesofindia.indiatimes.com/rssfeeds/7503091.cms", "language": "en", "region": "Coimbatore", "latitude": 11.016, "longitude": 76.9703, "time_zone": "IST", "source": "TOI"}
+{"id": 10, "link": "https://timesofindia.indiatimes.com/rssfeeds/6547154.cms", "language": "en", "region": "Gurugram", "latitude": 28.4595, "longitude": 77.0266, "time_zone": "IST", "source": "TOI"}
+{"id": 11, "link": "https://timesofindia.indiatimes.com/rssfeeds/4118215.cms", "language": "en", "region": "Guwahati", "latitude": 26.1432, "longitude": 91.6594, "time_zone": "IST", "source": "TOI"}
+{"id": 12, "link": "https://timesofindia.indiatimes.com/rssfeeds/3942695.cms", "language": "en", "region": "Hubballi", "latitude": 15.3514, "longitude": 75.1476, "time_zone": "IST", "source": "TOI"}
+{"id": 13, "link": "https://timesofindia.indiatimes.com/rssfeeds/3947067.cms", "language": "en", "region": "Kanpur", "latitude": 26.4629, "longitude": 80.3234, "time_zone": "IST", "source": "TOI"}
+{"id": 14, "link": "https://timesofindia.indiatimes.com/rssfeeds/-2128830821.cms", "language": "en", "region": "Kolkata", "latitude": 22.5656, "longitude": 88.3702, "time_zone": "IST", "source": "TOI"}
+{"id": 15, "link": "https://timesofindia.indiatimes.com/rssfeeds/3947051.cms", "language": "en", "region": "Ludhiana", "latitude": 30.9132, "longitude": 75.8495, "time_zone": "IST", "source": "TOI"}
+{"id": 16, "link": "https://timesofindia.indiatimes.com/rssfeeds/3942690.cms", "language": "en", "region": "Mangaluru", "latitude": 12.868, "longitude": 74.8427, "time_zone": "IST", "source": "TOI"}
+{"id": 17, "link": "https://timesofindia.indiatimes.com/rssfeeds/3942693.cms", "language": "en", "region": "Mysuru", "latitude": 12.3137, "longitude": 76.6172, "time_zone": "IST", "source": "TOI"}
+{"id": 18, "link": "https://timesofindia.indiatimes.com/rssfeeds/8021716.cms", "language": "en", "region": "Noida", "latitude": 28.5847, "longitude": 77.352, "time_zone": "IST", "source": "TOI"}
+{"id": 19, "link": "https://timesofindia.indiatimes.com/rssfeeds/-2128821991.cms", "language": "en", "region": "Pune", "latitude": 18.5208, "longitude": 73.8554, "time_zone": "IST", "source": "TOI"}
+{"id": 20, "link": "https://timesofindia.indiatimes.com/rssfeeds/3012535.cms", "language": "en", "region": "Goa", "latitude": 15.3632, "longitude": 74.0527, "time_zone": "IST", "source": "TOI"}
+{"id": 21, "link": "https://timesofindia.indiatimes.com/rssfeeds/-2128816762.cms", "language": "en", "region": "Chandigarh", "latitude": 30.7334, "longitude": 76.779, "time_zone": "IST", "source": "TOI"}
+{"id": 22, "link": "https://timesofindia.indiatimes.com/rssfeeds/-2128819658.cms", "language": "en", "region": "Lucknow", "latitude": 26.8463, "longitude": 80.949, "time_zone": "IST", "source": "TOI"}
+{"id": 23, "link": "https://timesofindia.indiatimes.com/rssfeeds/-2128817995.cms", "language": "en", "region": "Patna", "latitude": 25.6112, "longitude": 85.1307, "time_zone": "IST", "source": "TOI"}
+{"id": 24, "link": "https://timesofindia.indiatimes.com/rssfeeds/3012544.cms", "language": "en", "region": "Jaipur", "latitude": 26.921, "longitude": 75.7944, "time_zone": "IST", "source": "TOI"}
+{"id": 25, "link": "https://timesofindia.indiatimes.com/rssfeeds/442002.cms", "language": "en", "region": "Nagpur", "latitude": 21.1526, "longitude": 79.0882, "time_zone": "IST", "source": "TOI"}
+{"id": 26, "link": "https://timesofindia.indiatimes.com/rssfeeds/3942663.cms", "language": "en", "region": "Rajkot", "latitude": 22.3101, "longitude": 70.7397, "time_zone": "IST", "source": "TOI"}
+{"id": 27, "link": "https://timesofindia.indiatimes.com/rssfeeds/4118245.cms", "language": "en", "region": "Ranchi", "latitude": 23.3699, "longitude": 85.3253, "time_zone": "IST", "source": "TOI"}
+{"id": 28, "link": "https://timesofindia.indiatimes.com/rssfeeds/3942660.cms", "language": "en", "region": "Surat", "latitude": 21.2035, "longitude": 72.8392, "time_zone": "IST", "source": "TOI"}
+{"id": 29, "link": "https://timesofindia.indiatimes.com/rssfeeds/3942666.cms", "language": "en", "region": "Vadodara", "latitude": 22.3112, "longitude": 73.182, "time_zone": "IST", "source": "TOI"}
+{"id": 30, "link": "https://timesofindia.indiatimes.com/rssfeeds/3947071.cms", "language": "en", "region": "Varanasi", "latitude": 25.3097, "longitude": 83.0057, "time_zone": "IST", "source": "TOI"}
+{"id": 31, "link": "https://timesofindia.indiatimes.com/rssfeeds/3831863.cms", "language": "en", "region": "Thane", "latitude": 19.1997, "longitude": 72.9646, "time_zone": "IST", "source": "TOI"}
+{"id": 32, "link": "https://timesofindia.indiatimes.com/rssfeeds/878156304.cms", "language": "en", "region": "Thiruvananthapuram", "latitude": 8.5304, "longitude": 76.9296, "time_zone": "IST", "source": "TOI"}
+{"id": 33, "link": "https://www.thehindu.com/news/national/feeder/default.rss", "language": "en", "region": null, "latitude": null, "longitude": null, "time_zone": "IST", "source": "Hindu"}
+{"id": 34, "link": "https://www.thehindu.com/news/cities/feeder/default.rss", "language": "en", "region": null, "latitude": null, "longitude": null, "time_zone": "IST", "source": "Hindu"}
+{"id": 35, "link": "https://www.hindustantimes.com/feeds/rss/cities/rssfeed.xml", "language": "en", "region": null, "latitude": null, "longitude": null, "time_zone": "IST", "source": "HT"}
+{"id": 36, "link": "https://www.hindustantimes.com/feeds/rss/cities/bengaluru-news/rssfeed.xml", "language": "en", "region": "Bengaluru", "latitude": 12.9882, "longitude": 77.6226, "time_zone": "IST", "source": "HT"}
+{"id": 37, "link": "https://www.hindustantimes.com/feeds/rss/cities/bhopal-news/rssfeed.xml", "language": "en", "region": "Bhopal", "latitude": 23.2585, "longitude": 77.402, "time_zone": "IST", "source": "HT"}
+{"id": 38, "link": "https://www.hindustantimes.com/feeds/rss/cities/chandigarh-news/rssfeed.xml", "language": "en", "region": "Chandigarh", "latitude": 30.7298, "longitude": 76.7841, "time_zone": "IST", "source": "HT"}
+{"id": 39, "link": "https://www.hindustantimes.com/feeds/rss/cities/dehradun-news/rssfeed.xml", "language": "en", "region": "Dehradun", "latitude": 30.3256, "longitude": 78.0437, "time_zone": "IST", "source": "HT"}
+{"id": 40, "link": "https://www.hindustantimes.com/feeds/rss/cities/delhi-news/rssfeed.xml", "language": "en", "region": "Delhi", "latitude": 28.6274, "longitude": 77.1717, "time_zone": "IST", "source": "HT"}
+{"id": 41, "link": "https://www.hindustantimes.com/feeds/rss/cities/gurugram-news/rssfeed.xml", "language": "en", "region": "Gurugram", "latitude": 28.4646, "longitude": 77.0299, "time_zone": "IST", "source": "HT"}
+{"id": 42, "link": "https://www.hindustantimes.com/feeds/rss/cities/indore-news/rssfeed.xml", "language": "en", "region": "Indore", "latitude": 22.7204, "longitude": 75.8682, "time_zone": "IST", "source": "HT"}
+{"id": 43, "link": "https://www.hindustantimes.com/feeds/rss/cities/jaipur-news/rssfeed.xml", "language": "en", "region": "Jaipur", "latitude": 26.9155, "longitude": 75.819, "time_zone": "IST", "source": "HT"}
+{"id": 44, "link": "https://www.hindustantimes.com/feeds/rss/cities/kolkata-news/rssfeed.xml", "language": "en", "region": "Kolkata", "latitude": 22.5726, "longitude": 88.3639, "time_zone": "IST", "source": "HT"}
+{"id": 45, "link": "https://www.hindustantimes.com/feeds/rss/cities/lucknow-news/rssfeed.xml", "language": "en", "region": "Lucknow", "latitude": 26.8381, "longitude": 80.9346, "time_zone": "IST", "source": "HT"}
+{"id": 46, "link": "https://www.hindustantimes.com/feeds/rss/cities/mumbai-news/rssfeed.xml", "language": "en", "region": "Mumbai", "latitude": 19.0785, "longitude": 72.8782, "time_zone": "IST", "source": "HT"}
+{"id": 47, "link": "https://www.hindustantimes.com/feeds/rss/cities/noida-news/rssfeed.xml", "language": "en", "region": "Noida", "latitude": 28.5706, "longitude": 77.3272, "time_zone": "IST", "source": "HT"}
+{"id": 48, "link": "https://www.hindustantimes.com/feeds/rss/cities/others/rssfeed.xml", "language": "en", "region": null, "latitude": null, "longitude": null, "time_zone": "IST", "source": "HT"}
+{"id": 49, "link": "https://www.hindustantimes.com/feeds/rss/cities/patna-news/rssfeed.xml", "language": "en", "region": "Patna", "latitude": 25.6093, "longitude": 85.1235, "time_zone": "IST", "source": "HT"}
+{"id": 50, "link": "https://www.hindustantimes.com/feeds/rss/cities/pune-news/rssfeed.xml", "language": "en", "region": "Pune", "latitude": 18.5214, "longitude": 73.8545, "time_zone": "IST", "source": "HT"}
+{"id": 51, "link": "https://www.hindustantimes.com/feeds/rss/cities/ranchi-news/rssfeed.xml", "language": "en", "region": "Ranchi", "latitude": 23.3701, "longitude": 85.325, "time_zone": "IST", "source": "HT"}
+{"id": 52, "link": "https://www.livemint.com/rss/news", "language": "en", "region": null, "latitude": null, "longitude": null, "time_zone": "IST", "source": "Mint"}
+{"id": 53, "link": "https://www.news18.com/commonfeeds/v1/eng/rss/india.xml", "language": "en", "region": null, "latitude": null, "longitude": null, "time_zone": "IST", "source": "News18"}
+{"id": 54, "link": "https://www.dnaindia.com/feeds/india.xml", "language": "en", "region": null, "latitude": null, "longitude": null, "time_zone": "GMT", "source": "DNA"}
+{"id": 55, "link": "https://www.firstpost.com/commonfeeds/v1/mfp/rss/india.xml", "language": "en", "region": null, "latitude": null, "longitude": null, "time_zone": "IST", "source": "First Post"}
+{"id": 56, "link": "https://publish.tribuneindia.com/state/punjab/feed/", "language": "en", "region": "Punjab", "latitude": 30.9293, "longitude": 75.5005, "time_zone": "GMT", "source": "Tribune"}
+{"id": 57, "link": "https://publish.tribuneindia.com/state/haryana/feed/", "language": "en", "region": "Haryana", "latitude": 29.0, "longitude": 76.0, "time_zone": "GMT", "source": "Tribune"}
+{"id": 58, "link": "https://publish.tribuneindia.com/state/himachal/feed/", "language": "en", "region": "Himachal Pradesh", "latitude": 32.1024, "longitude": 77.5619, "time_zone": "GMT", "source": "Tribune"}
+{"id": 59, "link": "https://publish.tribuneindia.com/state/j-k/feed/", "language": "en", "region": "Jammu And Kashmir", "latitude": 33.6649, "longitude": 75.163, "time_zone": "GMT", "source": "Tribune"}
+{"id": 60, "link": "https://publish.tribuneindia.com/state/chhattisgarh/feed/", "language": "en", "region": "Chhattisgarh", "latitude": 21.6637, "longitude": 81.8406, "time_zone": "GMT", "source": "Tribune"}
+{"id": 61, "link": "https://publish.tribuneindia.com/state/madhya-pradesh/feed/", "language": "en", "region": "Madhya Pradesh", "latitude": 23.8143, "longitude": 77.5341, "time_zone": "GMT", "source": "Tribune"}
+{"id": 62, "link": "https://publish.tribuneindia.com/state/rajasthan/feed/", "language": "en", "region": "Rajasthan", "latitude": 26.8106, "longitude": 73.7685, "time_zone": "GMT", "source": "Tribune"}
+{"id": 63, "link": "https://publish.tribuneindia.com/state/uttarakhand/feed/", "language": "en", "region": "Uttarakhand", "latitude": 30.0417, "longitude": 79.0897, "time_zone": "GMT", "source": "Tribune"}
+{"id": 64, "link": "https://publish.tribuneindia.com/state/uttar-pradesh/feed/", "language": "en", "region": "Uttar Pradesh", "latitude": 27.1303, "longitude": 80.8597, "time_zone": "GMT", "source": "Tribune"}
+{"id": 65, "link": "https://publish.tribuneindia.com/newscategory/india/feed/", "language": "en", "region": null, "latitude": null, "longitude": null, "time_zone": "GMT", "source": "Tribune"}
+{"id": 66, "link": "https://www.oneindia.com/rss/feeds/oneindia-fb.xml", "language": "en", "region": null, "latitude": null, "longitude": null, "time_zone": "IST", "source": "One India"}
+{"id": 67, "link": "https://www.indiatoday.in/rss/1206578", "language": "en", "region": null, "latitude": null, "longitude": null, "time_zone": "IST", "source": "India Today"}
+{"id": 68, "link": "https://www.freepressjournal.in/stories.rss", "language": "en", "region": null, "latitude": null, "longitude": null, "time_zone": "GMT", "source": "Free Press Journal"}
+{"id": 69, "link": "https://www.deccanchronicle.com/google_feeds.xml", "language": "en", "region": null, "latitude": null, "longitude": null, "time_zone": "GMT", "source": "Deccan Chronicle"}
+{"id": 70, "link": "https://news.abplive.com/news/india/feed", "language": "en", "region": null, "latitude": null, "longitude": null, "time_zone": "IST", "source": "abp"}
+{"id": 71, "link": "https://www.oneindia.com/rss/feeds/news-india-fb.xml", "language": "en", "region": null, "latitude": null, "longitude": null, "time_zone": "IST", "source": "One India"}
+{"id": 72, "link": "https://www.latestly.com/rss/india.xml", "language": "en", "region": null, "latitude": null, "longitude": null, "time_zone": "IST", "source": "Latestly"}
+{"id": 73, "link": "https://zeenews.india.com/rss/india-national-news.xml", "language": "en", "region": null, "latitude": null, "longitude": null, "time_zone": "GMT", "source": "Zee News"}
+{"id": 74, "link": "https://www.indiatvnews.com/rssnews/topstory-india.xml", "language": "en", "region": null, "latitude": null, "longitude": null, "time_zone": "IST", "source": "India TV"}
+{"id": 75, "link": "https://www.gujaratsamachar.com/rss/category/gujarat", "language": "gj", "region": "Gujarat", "latitude": 22.385, "longitude": 71.7453, "time_zone": "GMT", "source": "Gujarat Samachar"}
+{"id": 76, "link": "https://www.amarujala.com/rss/gorakhpur.xml", "language": "hi", "region": "Gorakhpur", "latitude": 26.7606, "longitude": 83.3732, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 77, "link": "https://www.amarujala.com/rss/chandigarh.xml", "language": "hi", "region": "Chandigarh", "latitude": 30.7333, "longitude": 76.7794, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 78, "link": "https://www.amarujala.com/rss/dehradun.xml", "language": "hi", "region": "Dehradun", "latitude": 30.3165, "longitude": 78.0322, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 79, "link": "https://www.amarujala.com/rss/lucknow.xml", "language": "hi", "region": "Lucknow", "latitude": 26.8467, "longitude": 80.9462, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 80, "link": "https://www.amarujala.com/rss/shimla.xml", "language": "hi", "region": "Shimla", "latitude": 31.105, "longitude": 77.164, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 81, "link": "https://www.amarujala.com/rss/amroha.xml", "language": "hi", "region": "Amroha", "latitude": 28.9052, "longitude": 78.4673, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 82, "link": "https://www.amarujala.com/rss/amethi.xml", "language": "hi", "region": "Amethi", "latitude": 26.1541, "longitude": 81.8142, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 83, "link": "https://www.amarujala.com/rss/ambedkar-nagar.xml", "language": "hi", "region": "Ambedkar Nagar", "latitude": 26.3745, "longitude": 82.6915, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 84, "link": "https://www.amarujala.com/rss/aligarh.xml", "language": "hi", "region": "Aligarh", "latitude": 27.8974, "longitude": 78.088, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 85, "link": "https://www.amarujala.com/rss/agra.xml", "language": "hi", "region": "Agra", "latitude": 27.1767, "longitude": 78.0081, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 86, "link": "https://www.amarujala.com/rss/azamgarh.xml", "language": "hi", "region": "Azamgarh", "latitude": 26.0739, "longitude": 83.1859, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 87, "link": "https://www.amarujala.com/rss/unnao.xml", "language": "hi", "region": "Unnao", "latitude": 26.5393, "longitude": 80.4878, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 88, "link": "https://www.amarujala.com/rss/etah.xml", "language": "hi", "region": "Etah", "latitude": 27.5625, "longitude": 78.6654, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 89, "link": "https://www.amarujala.com/rss/auraiya.xml", "language": "hi", "region": "Auraiya", "latitude": 26.4605, "longitude": 79.5113, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 90, "link": "https://www.amarujala.com/rss/kannauj.xml", "language": "hi", "region": "Kannauj", "latitude": 27.0514, "longitude": 79.9137, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 91, "link": "https://www.amarujala.com/rss/kanpur.xml", "language": "hi", "region": "Kanpur", "latitude": 26.4499, "longitude": 80.3319, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 92, "link": "https://www.amarujala.com/rss/kushinagar.xml", "language": "hi", "region": "Kushinagar", "latitude": 26.9004, "longitude": 83.8897, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 93, "link": "https://www.amarujala.com/rss/kaushambi.xml", "language": "hi", "region": "Kaushambi", "latitude": 25.3611, "longitude": 81.4032, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 94, "link": "https://www.amarujala.com/rss/ghazipur.xml", "language": "hi", "region": "Ghazipur", "latitude": 25.5878, "longitude": 83.5783, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 95, "link": "https://www.amarujala.com/rss/gonda.xml", "language": "hi", "region": "Gonda", "latitude": 27.134, "longitude": 81.9619, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 96, "link": "https://www.amarujala.com/rss/chandauli.xml", "language": "hi", "region": "Chandauli", "latitude": 25.2605, "longitude": 83.2645, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 97, "link": "https://www.amarujala.com/rss/chitrakoot.xml", "language": "hi", "region": "Chitrakoot", "latitude": 25.1788, "longitude": 80.8655, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 98, "link": "https://www.amarujala.com/rss/jalaun.xml", "language": "hi", "region": "Jalaun", "latitude": 26.1459, "longitude": 79.3297, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 99, "link": "https://www.amarujala.com/rss/jaunpur.xml", "language": "hi", "region": "Jaunpur", "latitude": 25.7464, "longitude": 82.6837, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 100, "link": "https://www.amarujala.com/rss/deoria.xml", "language": "hi", "region": "Deoria", "latitude": 26.5024, "longitude": 83.7791, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 101, "link": "https://www.amarujala.com/rss/pilibhit.xml", "language": "hi", "region": "Pilibhit", "latitude": 28.6249, "longitude": 79.8075, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 102, "link": "https://www.amarujala.com/rss/pratapgarh.xml", "language": "hi", "region": "Pratapgarh", "latitude": 25.8973, "longitude": 81.9453, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 103, "link": "https://www.amarujala.com/rss/allahabad.xml", "language": "hi", "region": "Prayagraj", "latitude": 25.4358, "longitude": 81.8463, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 104, "link": "https://www.amarujala.com/rss/farrukhabad.xml", "language": "hi", "region": "Farrukhabad", "latitude": 27.3826, "longitude": 79.584, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 105, "link": "https://www.amarujala.com/rss/firozabad.xml", "language": "hi", "region": "Firozabad", "latitude": 27.1592, "longitude": 78.3957, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 106, "link": "https://www.amarujala.com/rss/budaun.xml", "language": "hi", "region": "Budaun", "latitude": 28.0311, "longitude": 79.1271, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 107, "link": "https://www.amarujala.com/rss/bareilly.xml", "language": "hi", "region": "Bareilly", "latitude": 28.367, "longitude": 79.4304, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 108, "link": "https://www.amarujala.com/rss/ballia.xml", "language": "hi", "region": "Ballia", "latitude": 25.8307, "longitude": 84.1857, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 109, "link": "https://www.amarujala.com/rss/basti.xml", "language": "hi", "region": "Basti", "latitude": 26.814, "longitude": 82.763, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 110, "link": "https://www.amarujala.com/rss/banda.xml", "language": "hi", "region": "Banda", "latitude": 25.4763, "longitude": 80.3395, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 111, "link": "https://www.amarujala.com/rss/baghpat.xml", "language": "hi", "region": "Baghpat", "latitude": 28.9428, "longitude": 77.2276, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 112, "link": "https://www.amarujala.com/rss/barabanki.xml", "language": "hi", "region": "Barabanki", "latitude": 26.9268, "longitude": 81.1834, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 113, "link": "https://www.amarujala.com/rss/bhadohi.xml", "language": "hi", "region": "Bhadohi", "latitude": 25.3805, "longitude": 82.5677, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 114, "link": "https://www.amarujala.com/rss/mau.xml", "language": "hi", "region": "Mau", "latitude": 25.9463, "longitude": 83.561, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 115, "link": "https://www.amarujala.com/rss/mathura.xml", "language": "hi", "region": "Mathura", "latitude": 27.4924, "longitude": 77.6737, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 116, "link": "https://www.amarujala.com/rss/maharajganj.xml", "language": "hi", "region": "Maharajganj", "latitude": 27.1446, "longitude": 83.5622, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 117, "link": "https://www.amarujala.com/rss/mahoba.xml", "language": "hi", "region": "Mahoba", "latitude": 25.2945, "longitude": 79.8859, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 118, "link": "https://www.amarujala.com/rss/mirzapur.xml", "language": "hi", "region": "Mirzapur", "latitude": 25.1337, "longitude": 82.5644, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 119, "link": "https://www.amarujala.com/rss/muzaffarnagar.xml", "language": "hi", "region": "Muzaffarnagar", "latitude": 29.4727, "longitude": 77.7085, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 120, "link": "https://www.amarujala.com/rss/meerut.xml", "language": "hi", "region": "Meerut", "latitude": 28.9845, "longitude": 77.7064, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 121, "link": "https://www.amarujala.com/rss/mainpuri.xml", "language": "hi", "region": "Mainpuri", "latitude": 27.2282, "longitude": 79.0252, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 122, "link": "https://www.amarujala.com/rss/rampur.xml", "language": "hi", "region": "Rampur", "latitude": 28.7983, "longitude": 79.022, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 123, "link": "https://www.amarujala.com/rss/lakhimpur-kheri.xml", "language": "hi", "region": "Lakhimpur Kheri", "latitude": 27.9462, "longitude": 80.7787, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 124, "link": "https://www.amarujala.com/rss/lalitpur.xml", "language": "hi", "region": "Lalitpur", "latitude": 24.6912, "longitude": 78.4138, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 125, "link": "https://www.amarujala.com/rss/varanasi.xml", "language": "hi", "region": "Varanasi", "latitude": 25.3176, "longitude": 82.9739, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 126, "link": "https://www.amarujala.com/rss/shamli.xml", "language": "hi", "region": "Shamli", "latitude": 29.4502, "longitude": 77.3172, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 127, "link": "https://www.amarujala.com/rss/shahjahanpur.xml", "language": "hi", "region": "Shahjahanpur", "latitude": 27.8753, "longitude": 79.9147, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 128, "link": "https://www.amarujala.com/rss/sambhal.xml", "language": "hi", "region": "Sambhal", "latitude": 28.5904, "longitude": 78.5718, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 129, "link": "https://www.amarujala.com/rss/saharanpur.xml", "language": "hi", "region": "Saharanpur", "latitude": 29.968, "longitude": 77.5552, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 130, "link": "https://www.amarujala.com/rss/siddharthnagar.xml", "language": "hi", "region": "Siddharthnagar", "latitude": 27.2716, "longitude": 82.821, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 131, "link": "https://www.amarujala.com/rss/sitapur.xml", "language": "hi", "region": "Sitapur", "latitude": 27.568, "longitude": 80.679, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 132, "link": "https://www.amarujala.com/rss/sultanpur.xml", "language": "hi", "region": "Sultanpur", "latitude": 26.2585, "longitude": 82.066, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 133, "link": "https://www.amarujala.com/rss/sonebhadra.xml", "language": "hi", "region": "Sonebhadra", "latitude": 24.457, "longitude": 82.9932, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 134, "link": "https://www.amarujala.com/rss/hamirpur.xml", "language": "hi", "region": "Hamirpur", "latitude": 31.6862, "longitude": 76.5213, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 135, "link": "https://www.amarujala.com/rss/hathras.xml", "language": "hi", "region": "Hathras", "latitude": 27.5981, "longitude": 78.0492, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 136, "link": "https://www.amarujala.com/rss/almora.xml", "language": "hi", "region": "Almora", "latitude": 29.5892, "longitude": 79.6467, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 137, "link": "https://www.amarujala.com/rss/uttarkashi.xml", "language": "hi", "region": "Uttarkashi", "latitude": 30.7306, "longitude": 78.4437, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 138, "link": "https://www.amarujala.com/rss/udham-singh-nagar.xml", "language": "hi", "region": "Udham Singh Nagar", "latitude": 28.961, "longitude": 79.5154, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 139, "link": "https://www.amarujala.com/rss/rishikesh.xml", "language": "hi", "region": "Rishikesh", "latitude": 30.1158, "longitude": 78.2853, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 140, "link": "https://www.amarujala.com/rss/kotdwar.xml", "language": "hi", "region": "Kotdwar", "latitude": 29.7453, "longitude": 78.5198, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 141, "link": "https://www.amarujala.com/rss/champawat.xml", "language": "hi", "region": "Champawat", "latitude": 29.3361, "longitude": 80.091, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 142, "link": "https://www.amarujala.com/rss/tehri.xml", "language": "hi", "region": "Tehri", "latitude": 30.3012, "longitude": 78.5661, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 143, "link": "https://www.amarujala.com/rss/nainital.xml", "language": "hi", "region": "Nainital", "latitude": 29.3924, "longitude": 79.4534, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 144, "link": "https://www.amarujala.com/rss/pithoragarh.xml", "language": "hi", "region": "Pithoragarh", "latitude": 29.5829, "longitude": 80.2182, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 145, "link": "https://www.amarujala.com/rss/pauri.xml", "language": "hi", "region": "Pauri", "latitude": 30.1471, "longitude": 78.7745, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 146, "link": "https://www.amarujala.com/rss/bageshwar.xml", "language": "hi", "region": "Bageshwar", "latitude": 29.8404, "longitude": 79.7694, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 147, "link": "https://www.amarujala.com/rss/roorkee.xml", "language": "hi", "region": "Roorkee", "latitude": 29.8543, "longitude": 77.888, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 148, "link": "https://www.amarujala.com/rss/haridwar.xml", "language": "hi", "region": "Haridwar", "latitude": 29.9457, "longitude": 78.1642, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 149, "link": "https://www.amarujala.com/rss/panchkula.xml", "language": "hi", "region": "Panchkula", "latitude": 30.6942, "longitude": 76.8604, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 150, "link": "https://www.amarujala.com/rss/mohali.xml", "language": "hi", "region": "Mohali", "latitude": 30.7046, "longitude": 76.7179, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 151, "link": "https://www.amarujala.com/rss/kabirdham.xml", "language": "hi", "region": "Kabirdham", "latitude": 22.0991, "longitude": 81.2519, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 152, "link": "https://www.amarujala.com/rss/korba.xml", "language": "hi", "region": "Korba", "latitude": 22.3595, "longitude": 82.7501, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 153, "link": "https://www.amarujala.com/rss/chhattisgarh.xml", "language": "hi", "region": "Chhattisgarh", "latitude": 21.2787, "longitude": 81.8661, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 154, "link": "https://www.amarujala.com/rss/mahasamund.xml", "language": "hi", "region": "Mahasamund", "latitude": 21.1124, "longitude": 82.096, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 155, "link": "https://www.amarujala.com/rss/raipur.xml", "language": "hi", "region": "Raipur", "latitude": 21.2514, "longitude": 81.6296, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 156, "link": "https://www.amarujala.com/rss/udhampur.xml", "language": "hi", "region": "Udhampur", "latitude": 32.916, "longitude": 75.1416, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 157, "link": "https://www.amarujala.com/rss/kathua.xml", "language": "hi", "region": "Kathua", "latitude": 32.3863, "longitude": 75.5173, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 158, "link": "https://www.amarujala.com/rss/jammu-and-kashmir.xml", "language": "hi", "region": "Jammu And Kashmir", "latitude": 33.2778, "longitude": 75.3412, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 159, "link": "https://www.amarujala.com/rss/srinagar.xml", "language": "hi", "region": "Srinagar", "latitude": 34.0837, "longitude": 74.7973, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 160, "link": "https://www.amarujala.com/rss/jharkhand.xml", "language": "hi", "region": "Jharkhand", "latitude": 23.6913, "longitude": 85.2722, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 161, "link": "https://www.amarujala.com/rss/ghaziabad.xml", "language": "hi", "region": "Ghaziabad", "latitude": 28.6692, "longitude": 77.4538, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 162, "link": "https://www.amarujala.com/rss/noida.xml", "language": "hi", "region": "Noida", "latitude": 28.5355, "longitude": 77.391, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 163, "link": "https://www.amarujala.com/rss/faridabad.xml", "language": "hi", "region": "Faridabad", "latitude": 28.4089, "longitude": 77.3178, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 164, "link": "https://www.amarujala.com/rss/chandigarh-punjab.xml", "language": "hi", "region": "Chandigarh", "latitude": 30.7333, "longitude": 76.7794, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 165, "link": "https://www.amarujala.com/rss/jalandhar.xml", "language": "hi", "region": "Jalandhar", "latitude": 31.326, "longitude": 75.5762, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 166, "link": "https://www.amarujala.com/rss/punjab.xml", "language": "hi", "region": "Punjab", "latitude": 31.1471, "longitude": 75.3412, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 167, "link": "https://www.amarujala.com/rss/kosi.xml", "language": "hi", "region": "Kosi", "latitude": 27.7972, "longitude": 77.4333, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 168, "link": "https://www.amarujala.com/rss/muzaffarpur.xml", "language": "hi", "region": "Muzaffarpur", "latitude": 26.1197, "longitude": 85.391, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 169, "link": "https://www.amarujala.com/rss/darbhanga.xml", "language": "hi", "region": "Darbhanga", "latitude": 26.1542, "longitude": 85.8918, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 170, "link": "https://www.amarujala.com/rss/patna.xml", "language": "hi", "region": "Patna", "latitude": 25.5941, "longitude": 85.1376, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 171, "link": "https://www.amarujala.com/rss/purnea.xml", "language": "hi", "region": "Purnea", "latitude": 25.7771, "longitude": 87.4753, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 172, "link": "https://www.amarujala.com/rss/bihar.xml", "language": "hi", "region": "Bihar", "latitude": 25.9644, "longitude": 85.2722, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 173, "link": "https://www.amarujala.com/rss/gaya.xml", "language": "hi", "region": "Gaya", "latitude": 24.7914, "longitude": 85.0002, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 174, "link": "https://www.amarujala.com/rss/munger.xml", "language": "hi", "region": "Munger", "latitude": 25.3708, "longitude": 86.4734, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 175, "link": "https://www.amarujala.com/rss/saran.xml", "language": "hi", "region": "Saran", "latitude": 25.856, "longitude": 84.8568, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 176, "link": "https://www.amarujala.com/rss/indore.xml", "language": "hi", "region": "Indore", "latitude": 22.7196, "longitude": 75.8577, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 177, "link": "https://www.amarujala.com/rss/ujjain.xml", "language": "hi", "region": "Ujjain", "latitude": 23.1765, "longitude": 75.7885, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 178, "link": "https://www.amarujala.com/rss/umaria.xml", "language": "hi", "region": "Umaria", "latitude": 23.531, "longitude": 80.8295, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 179, "link": "https://www.amarujala.com/rss/khandwa.xml", "language": "hi", "region": "Khandwa", "latitude": 21.8314, "longitude": 76.3498, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 180, "link": "https://www.amarujala.com/rss/khargone.xml", "language": "hi", "region": "Khargone", "latitude": 21.8257, "longitude": 75.6184, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 181, "link": "https://www.amarujala.com/rss/gwalior.xml", "language": "hi", "region": "Gwalior", "latitude": 26.2124, "longitude": 78.1772, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 182, "link": "https://www.amarujala.com/rss/damoh.xml", "language": "hi", "region": "Damoh", "latitude": 23.8323, "longitude": 79.4387, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 183, "link": "https://www.amarujala.com/rss/burhanpur.xml", "language": "hi", "region": "Burhanpur", "latitude": 21.3145, "longitude": 76.218, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 184, "link": "https://www.amarujala.com/rss/bhopal.xml", "language": "hi", "region": "Bhopal", "latitude": 23.2599, "longitude": 77.4126, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 185, "link": "https://www.amarujala.com/rss/madhya-pradesh.xml", "language": "hi", "region": "Madhya Pradesh", "latitude": 22.9734, "longitude": 78.6569, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 186, "link": "https://www.amarujala.com/rss/shahdol.xml", "language": "hi", "region": "Shahdol", "latitude": 23.3002, "longitude": 81.3569, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 187, "link": "https://www.amarujala.com/rss/sagar.xml", "language": "hi", "region": "Sagar", "latitude": 23.8388, "longitude": 78.7378, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 188, "link": "https://www.amarujala.com/rss/sehore.xml", "language": "hi", "region": "Sehore", "latitude": 23.2032, "longitude": 77.0844, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 189, "link": "https://www.amarujala.com/rss/alwar.xml", "language": "hi", "region": "Alwar", "latitude": 27.553, "longitude": 76.6346, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 190, "link": "https://www.amarujala.com/rss/karauli.xml", "language": "hi", "region": "Karauli", "latitude": 26.505, "longitude": 77.0268, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 191, "link": "https://www.amarujala.com/rss/jaipur.xml", "language": "hi", "region": "Jaipur", "latitude": 26.9124, "longitude": 75.7873, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 192, "link": "https://www.amarujala.com/rss/jodhpur.xml", "language": "hi", "region": "Jodhpur", "latitude": 26.2389, "longitude": 73.0243, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 193, "link": "https://www.amarujala.com/rss/dausa.xml", "language": "hi", "region": "Dausa", "latitude": 26.8997, "longitude": 76.3324, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 194, "link": "https://www.amarujala.com/rss/bharatpur.xml", "language": "hi", "region": "Bharatpur", "latitude": 27.2152, "longitude": 77.503, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 195, "link": "https://www.amarujala.com/rss/rajasthan.xml", "language": "hi", "region": "Rajasthan", "latitude": 27.0238, "longitude": 74.2179, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 196, "link": "https://www.amarujala.com/rss/ambala.xml", "language": "hi", "region": "Ambala", "latitude": 30.3752, "longitude": 76.7821, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 197, "link": "https://www.amarujala.com/rss/karnal.xml", "language": "hi", "region": "Karnal", "latitude": 29.6857, "longitude": 76.9905, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 198, "link": "https://www.amarujala.com/rss/kurukshetra.xml", "language": "hi", "region": "Kurukshetra", "latitude": 29.9695, "longitude": 76.8783, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 199, "link": "https://www.amarujala.com/rss/kaithal.xml", "language": "hi", "region": "Kaithal", "latitude": 29.8043, "longitude": 76.4039, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 200, "link": "https://www.amarujala.com/rss/charkhi-dadri.xml", "language": "hi", "region": "Charkhi Dadri", "latitude": 28.5921, "longitude": 76.2653, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 201, "link": "https://www.amarujala.com/rss/jind.xml", "language": "hi", "region": "Jind", "latitude": 29.3255, "longitude": 76.2998, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 202, "link": "https://www.amarujala.com/rss/jhajjar-bahadurgarh.xml", "language": "hi", "region": "Jhajjar Bahadurgarh", "latitude": 28.6914, "longitude": 76.9314, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 203, "link": "https://www.amarujala.com/rss/panipat.xml", "language": "hi", "region": "Panipat", "latitude": 29.3909, "longitude": 76.9635, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 204, "link": "https://www.amarujala.com/rss/fatehabad.xml", "language": "hi", "region": "Fatehabad", "latitude": 29.5132, "longitude": 75.451, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 205, "link": "https://www.amarujala.com/rss/mahendragarh-narnaul.xml", "language": "hi", "region": "Mahendragarh Narnaul", "latitude": 28.0688, "longitude": 76.1068, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 206, "link": "https://www.amarujala.com/rss/yamuna-nagar.xml", "language": "hi", "region": "Yamuna Nagar", "latitude": 30.129, "longitude": 77.2674, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 207, "link": "https://www.amarujala.com/rss/rewari.xml", "language": "hi", "region": "Rewari", "latitude": 28.192, "longitude": 76.6191, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 208, "link": "https://www.amarujala.com/rss/rohtak.xml", "language": "hi", "region": "Rohtak", "latitude": 28.8955, "longitude": 76.6066, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 209, "link": "https://www.amarujala.com/rss/sirsa.xml", "language": "hi", "region": "Sirsa", "latitude": 29.5321, "longitude": 75.0318, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 210, "link": "https://www.amarujala.com/rss/sonipat.xml", "language": "hi", "region": "Sonipat", "latitude": 28.9931, "longitude": 77.0151, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 211, "link": "https://www.amarujala.com/rss/haryana.xml", "language": "hi", "region": "Haryana", "latitude": 29.0588, "longitude": 76.0856, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 212, "link": "https://www.amarujala.com/rss/hisar.xml", "language": "hi", "region": "Hisar", "latitude": 29.1492, "longitude": 75.7217, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 213, "link": "https://www.amarujala.com/rss/una.xml", "language": "hi", "region": "Una", "latitude": 31.4685, "longitude": 76.2708, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 214, "link": "https://www.amarujala.com/rss/kangra.xml", "language": "hi", "region": "Kangra", "latitude": 32.1015, "longitude": 76.2731, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 215, "link": "https://www.amarujala.com/rss/kullu.xml", "language": "hi", "region": "Kullu", "latitude": 31.9592, "longitude": 77.1089, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 216, "link": "https://www.amarujala.com/rss/chamba.xml", "language": "hi", "region": "Chamba", "latitude": 32.5534, "longitude": 76.1258, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 217, "link": "https://www.amarujala.com/rss/bilaspur.xml", "language": "hi", "region": "Bilaspur", "latitude": 22.0797, "longitude": 82.1409, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 218, "link": "https://www.amarujala.com/rss/mandi.xml", "language": "hi", "region": "Mandi", "latitude": 31.7087, "longitude": 76.932, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 219, "link": "https://www.amarujala.com/rss/sirmour.xml", "language": "hi", "region": "Sirmour", "latitude": 30.5628, "longitude": 77.4702, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 220, "link": "https://www.amarujala.com/rss/hamirpur-hp.xml", "language": "hi", "region": "Hamirpur Hp", "latitude": 31.6862, "longitude": 76.5213, "time_zone": "IST", "source": "Amar Ujala"}
+{"id": 221, "link": "https://www.amarujala.com/rss/himachal-pradesh.xml", "language": "hi", "region": "Himachal Pradesh", "latitude": 32.1024, "longitude": 77.5619, "time_zone": "IST", "source": "Amar Ujala"}

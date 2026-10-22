@@ -1,0 +1,75 @@
+id,link,language,region,latitude,longitude,time_zone,source
+1,http://timesofindia.indiatimes.com/rssfeeds/-2128838597.cms,en,Mumbai,18.9691,72.8212,IST,TOI
+2,https://timesofindia.indiatimes.com/rssfeeds/-2128839596.cms,en,Delhi,28.6324,77.2188,IST,TOI
+3,https://timesofindia.indiatimes.com/rssfeeds/-2128833038.cms,en,Bengaluru,12.9768,77.5753,IST,TOI
+4,https://timesofindia.indiatimes.com/rssfeeds/-2128816011.cms,en,Hyderabad,17.3617,78.4752,IST,TOI
+5,https://timesofindia.indiatimes.com/rssfeeds/2950623.cms,en,Chennai,13.0721,80.2019,IST,TOI
+6,https://timesofindia.indiatimes.com/rssfeeds/-2128821153.cms,en,Ahmedabad,23.0145,72.5918,IST,TOI
+7,https://timesofindia.indiatimes.com/rssfeeds/3947060.cms,en,Prayagraj,25.4358,81.8463,IST,TOI
+8,https://timesofindia.indiatimes.com/rssfeeds/4118235.cms,en,Bhubaneswar,20.2726,85.8331,IST,TOI
+9,https://timesofindia.indiatimes.com/rssfeeds/7503091.cms,en,Coimbatore,11.0160,76.9703,IST,TOI
+10,https://timesofindia.indiatimes.com/rssfeeds/6547154.cms,en,Gurugram,28.4595,77.0266,IST,TOI
+11,https://timesofindia.indiatimes.com/rssfeeds/4118215.cms,en,Guwahati,26.1432,91.6594,IST,TOI
+12,https://timesofindia.indiatimes.com/rssfeeds/3942695.cms,en,Hubballi,15.3514,75.1476,IST,TOI
+13,https://timesofindia.indiatimes.com/rssfeeds/3947067.cms,en,Kanpur,26.4629,80.3234,IST,TOI
+14,https://timesofindia.indiatimes.com/rssfeeds/-2128830821.cms,en,Kolkata,22.5656,88.3702,IST,TOI
+15,https://timesofindia.indiatimes.com/rssfeeds/3947051.cms,en,Ludhiana,30.9132,75.8495,IST,TOI
+16,https://timesofindia.indiatimes.com/rssfeeds/3942690.cms,en,Mangaluru,12.8680,74.8427,IST,TOI
+17,https://timesofindia.indiatimes.com/rssfeeds/3942693.cms,en,Mysuru,12.3137,76.6172,IST,TOI
+18,https://timesofindia.indiatimes.com/rssfeeds/8021716.cms,en,Noida,28.5847,77.3520,IST,TOI
+19,https://timesofindia.indiatimes.com/rssfeeds/-2128821991.cms,en,Pune,18.5208,73.8554,IST,TOI
+20,https://timesofindia.indiatimes.com/rssfeeds/3012535.cms,en,Goa,15.3632,74.0527,IST,TOI
+21,https://timesofindia.indiatimes.com/rssfeeds/-2128816762.cms,en,Chandigarh,30.7334,76.7790,IST,TOI
+22,https://timesofindia.indiatimes.com/rssfeeds/-2128819658.cms,en,Lucknow,26.8463,80.9490,IST,TOI
+23,https://timesofindia.indiatimes.com/rssfeeds/-2128817995.cms,en,Patna,25.6112,85.1307,IST,TOI
+24,https://timesofindia.indiatimes.com/rssfeeds/3012544.cms,en,Jaipur,26.9210,75.7944,IST,TOI
+25,https://timesofindia.indiatimes.com/rssfeeds/442002.cms,en,Nagpur,21.1526,79.0882,IST,TOI
+26,https://timesofindia.indiatimes.com/rssfeeds/3942663.cms,en,Rajkot,22.3101,70.7397,IST,TOI
+27,https://timesofindia.indiatimes.com/rssfeeds/4118245.cms,en,Ranchi,23.3699,85.3253,IST,TOI
+28,https://timesofindia.indiatimes.com/rssfeeds/3942660.cms,en,Surat,21.2035,72.8392,IST,TOI
+29,https://timesofindia.indiatimes.com/rssfeeds/3942666.cms,en,Vadodara,22.3112,73.1820,IST,TOI
+30,https://timesofindia.indiatimes.com/rssfeeds/3947071.cms,en,Varanasi,25.3097,83.0057,IST,TOI
+31,https://timesofindia.indiatimes.com/rssfeeds/3831863.cms,en,Thane,19.1997,72.9646,IST,TOI
+32,https://timesofindia.indiatimes.com/rssfeeds/878156304.cms,en,Thiruvananthapuram,8.5304,76.9296,IST,TOI
+33,https://www.thehindu.com/news/national/feeder/default.rss,en,,,,IST,Hindu
+34,https://www.thehindu.com/news/cities/feeder/default.rss,en,,,,IST,Hindu
+35,https://www.hindustantimes.com/feeds/rss/cities/rssfeed.xml,en,,,,IST,HT
+36,https://www.hindustantimes.com/feeds/rss/cities/bengaluru-news/rssfeed.xml,en,Bengaluru,12.9882,77.6226,IST,HT
+37,https://www.hindustantimes.com/feeds/rss/cities/bhopal-news/rssfeed.xml,en,Bhopal,23.2585,77.4020,IST,HT
+38,https://www.hindustantimes.com/feeds/rss/cities/chandigarh-news/rssfeed.xml,en,Chandigarh,30.7298,76.7841,IST,HT
+39,https://www.hindustantimes.com/feeds/rss/cities/dehradun-news/rssfeed.xml,en,Dehradun,30.3256,78.0437,IST,HT
+40,https://www.hindustantimes.com/feeds/rss/cities/delhi-news/rssfeed.xml,en,Delhi,28.6274,77.1717,IST,HT
+41,https://www.hindustantimes.com/feeds/rss/cities/gurugram-news/rssfeed.xml,en,Gurugram,28.4646,77.0299,IST,HT
+42,https://www.hindustantimes.com/feeds/rss/cities/indore-news/rssfeed.xml,en,Indore,22.7204,75.8682,IST,HT
+43,https://www.hindustantimes.com/feeds/rss/cities/jaipur-news/rssfeed.xml,en,Jaipur,26.9155,75.8190,IST,HT
+44,https://www.hindustantimes.com/feeds/rss/cities/kolkata-news/rssfeed.xml,en,Kolkata,22.5726,88.3639,IST,HT
+45,https://www.hindustantimes.com/feeds/rss/cities/lucknow-news/rssfeed.xml,en,Lucknow,26.8381,80.9346,IST,HT
+46,https://www.hindustantimes.com/feeds/rss/cities/mumbai-news/rssfeed.xml,en,Mumbai,19.0785,72.8782,IST,HT
+47,https://www.hindustantimes.com/feeds/rss/cities/noida-news/rssfeed.xml,en,Noida,28.5706,77.3272,IST,HT
+48,https://www.hindustantimes.com/feeds/rss/cities/others/rssfeed.xml,en,,,,IST,HT
+49,https://www.hindustantimes.com/feeds/rss/cities/patna-news/rssfeed.xml,en,Patna,25.6093,85.1235,IST,HT
+50,https://www.hindustantimes.com/feeds/rss/cities/pune-news/rssfeed.xml,en,Pune,18.5214,73.8545,IST,HT
+51,https://www.hindustantimes.com/feeds/rss/cities/ranchi-news/rssfeed.xml,en,Ranchi,23.3701,85.3250,IST,HT
+52,https://www.livemint.com/rss/news,en,,,,IST,Mint
+53,https://www.news18.com/commonfeeds/v1/eng/rss/india.xml,en,,,,IST,News18
+54,https://www.dnaindia.com/feeds/india.xml,en,,,,GMT,DNA
+55,https://www.firstpost.com/commonfeeds/v1/mfp/rss/india.xml,en,,,,IST,First Post
+56,https://publish.tribuneindia.com/state/punjab/feed/,en,Punjab,30.9293,75.5005,GMT,Tribune
+57,https://publish.tribuneindia.com/state/haryana/feed/,en,Haryana,29.0000,76.0000,GMT,Tribune
+58,https://publish.tribuneindia.com/state/himachal/feed/,en,Himachal Pradesh,32.1024,77.5619,GMT,Tribune
+59,https://publish.tribuneindia.com/state/j-k/feed/,en,Jammu And Kashmir,33.6649,75.1630,GMT,Tribune
+60,https://publish.tribuneindia.com/state/chhattisgarh/feed/,en,Chhattisgarh,21.6637,81.8406,GMT,Tribune
+61,https://publish.tribuneindia.com/state/madhya-pradesh/feed/,en,Madhya Pradesh,23.8143,77.5341,GMT,Tribune
+62,https://publish.tribuneindia.com/state/rajasthan/feed/,en,Rajasthan,26.8106,73.7685,GMT,Tribune
+63,https://publish.tribuneindia.com/state/uttarakhand/feed/,en,Uttarakhand,30.0417,79.0897,GMT,Tribune
+64,https://publish.tribuneindia.com/state/uttar-pradesh/feed/,en,Uttar Pradesh,27.1303,80.8597,GMT,Tribune
+65,https://publish.tribuneindia.com/newscategory/india/feed/,en,,,,GMT,Tribune
+66,https://www.oneindia.com/rss/feeds/oneindia-fb.xml,en,,,,IST,One India
+67,https://www.indiatoday.in/rss/1206578,en,,,,IST,India Today
+68,https://www.freepressjournal.in/stories.rss,en,,,,GMT,Free Press Journal
+69,https://www.deccanchronicle.com/google_feeds.xml,en,,,,GMT,Deccan Chronicle
+70,https://news.abplive.com/news/india/feed,en,,,,IST,abp
+71,https://www.oneindia.com/rss/feeds/news-india-fb.xml,en,,,,IST,One India
+72,https://www.latestly.com/rss/india.xml,en,,,,IST,Latestly
+73,https://zeenews.india.com/rss/india-national-news.xml,en,,,,GMT,Zee News
+74,https://www.indiatvnews.com/rssnews/topstory-india.xml,en,,,,IST,India TV

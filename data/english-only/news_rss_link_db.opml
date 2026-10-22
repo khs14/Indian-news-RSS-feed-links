@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>News RSS feeds (India)</title>
+  </head>
+  <body>
+    <outline text="TOI" title="TOI">
+      <outline type="rss" text="TOI · Mumbai" title="TOI · Mumbai" xmlUrl="http://timesofindia.indiatimes.com/rssfeeds/-2128838597.cms" language="en" />
+      <outline type="rss" text="TOI · Delhi" title="TOI · Delhi" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/-2128839596.cms" language="en" />
+      <outline type="rss" text="TOI · Bengaluru" title="TOI · Bengaluru" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/-2128833038.cms" language="en" />
+      <outline type="rss" text="TOI · Hyderabad" title="TOI · Hyderabad" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/-2128816011.cms" language="en" />
+      <outline type="rss" text="TOI · Chennai" title="TOI · Chennai" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/2950623.cms" language="en" />
+      <outline type="rss" text="TOI · Ahmedabad" title="TOI · Ahmedabad" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/-2128821153.cms" language="en" />
+      <outline type="rss" text="TOI · Prayagraj" title="TOI · Prayagraj" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/3947060.cms" language="en" />
+      <outline type="rss" text="TOI · Bhubaneswar" title="TOI · Bhubaneswar" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/4118235.cms" language="en" />
+      <outline type="rss" text="TOI · Coimbatore" title="TOI · Coimbatore" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/7503091.cms" language="en" />
+      <outline type="rss" text="TOI · Gurugram" title="TOI · Gurugram" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/6547154.cms" language="en" />
+      <outline type="rss" text="TOI · Guwahati" title="TOI · Guwahati" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/4118215.cms" language="en" />
+      <outline type="rss" text="TOI · Hubballi" title="TOI · Hubballi" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/3942695.cms" language="en" />
+      <outline type="rss" text="TOI · Kanpur" title="TOI · Kanpur" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/3947067.cms" language="en" />
+      <outline type="rss" text="TOI · Kolkata" title="TOI · Kolkata" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/-2128830821.cms" language="en" />
+      <outline type="rss" text="TOI · Ludhiana" title="TOI · Ludhiana" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/3947051.cms" language="en" />
+      <outline type="rss" text="TOI · Mangaluru" title="TOI · Mangaluru" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/3942690.cms" language="en" />
+      <outline type="rss" text="TOI · Mysuru" title="TOI · Mysuru" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/3942693.cms" language="en" />
+      <outline type="rss" text="TOI · Noida" title="TOI · Noida" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/8021716.cms" language="en" />
+      <outline type="rss" text="TOI · Pune" title="TOI · Pune" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/-2128821991.cms" language="en" />
+      <outline type="rss" text="TOI · Goa" title="TOI · Goa" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/3012535.cms" language="en" />
+      <outline type="rss" text="TOI · Chandigarh" title="TOI · Chandigarh" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/-2128816762.cms" language="en" />
+      <outline type="rss" text="TOI · Lucknow" title="TOI · Lucknow" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/-2128819658.cms" language="en" />
+      <outline type="rss" text="TOI · Patna" title="TOI · Patna" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/-2128817995.cms" language="en" />
+      <outline type="rss" text="TOI · Jaipur" title="TOI · Jaipur" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/3012544.cms" language="en" />
+      <outline type="rss" text="TOI · Nagpur" title="TOI · Nagpur" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/442002.cms" language="en" />
+      <outline type="rss" text="TOI · Rajkot" title="TOI · Rajkot" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/3942663.cms" language="en" />
+      <outline type="rss" text="TOI · Ranchi" title="TOI · Ranchi" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/4118245.cms" language="en" />
+      <outline type="rss" text="TOI · Surat" title="TOI · Surat" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/3942660.cms" language="en" />
+      <outline type="rss" text="TOI · Vadodara" title="TOI · Vadodara" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/3942666.cms" language="en" />
+      <outline type="rss" text="TOI · Varanasi" title="TOI · Varanasi" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/3947071.cms" language="en" />
+      <outline type="rss" text="TOI · Thane" title="TOI · Thane" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/3831863.cms" language="en" />
+      <outline type="rss" text="TOI · Thiruvananthapuram" title="TOI · Thiruvananthapuram" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/878156304.cms" language="en" />
+    </outline>
+    <outline text="Hindu" title="Hindu">
+      <outline type="rss" text="Hindu #33" title="Hindu #33" xmlUrl="https://www.thehindu.com/news/national/feeder/default.rss" language="en" />
+      <outline type="rss" text="Hindu #34" title="Hindu #34" xmlUrl="https://www.thehindu.com/news/cities/feeder/default.rss" language="en" />
+    </outline>
+    <outline text="HT" title="HT">
+      <outline type="rss" text="HT #35" title="HT #35" xmlUrl="https://www.hindustantimes.com/feeds/rss/cities/rssfeed.xml" language="en" />
+      <outline type="rss" text="HT · Bengaluru" title="HT · Bengaluru" xmlUrl="https://www.hindustantimes.com/feeds/rss/cities/bengaluru-news/rssfeed.xml" language="en" />
+      <outline type="rss" text="HT · Bhopal" title="HT · Bhopal" xmlUrl="https://www.hindustantimes.com/feeds/rss/cities/bhopal-news/rssfeed.xml" language="en" />
+      <outline type="rss" text="HT · Chandigarh" title="HT · Chandigarh" xmlUrl="https://www.hindustantimes.com/feeds/rss/cities/chandigarh-news/rssfeed.xml" language="en" />
+      <outline type="rss" text="HT · Dehradun" title="HT · Dehradun" xmlUrl="https://www.hindustantimes.com/feeds/rss/cities/dehradun-news/rssfeed.xml" language="en" />
+      <outline type="rss" text="HT · Delhi" title="HT · Delhi" xmlUrl="https://www.hindustantimes.com/feeds/rss/cities/delhi-news/rssfeed.xml" language="en" />
+      <outline type="rss" text="HT · Gurugram" title="HT · Gurugram" xmlUrl="https://www.hindustantimes.com/feeds/rss/cities/gurugram-news/rssfeed.xml" language="en" />
+      <outline type="rss" text="HT · Indore" title="HT · Indore" xmlUrl="https://www.hindustantimes.com/feeds/rss/cities/indore-news/rssfeed.xml" language="en" />
+      <outline type="rss" text="HT · Jaipur" title="HT · Jaipur" xmlUrl="https://www.hindustantimes.com/feeds/rss/cities/jaipur-news/rssfeed.xml" language="en" />
+      <outline type="rss" text="HT · Kolkata" title="HT · Kolkata" xmlUrl="https://www.hindustantimes.com/feeds/rss/cities/kolkata-news/rssfeed.xml" language="en" />
+      <outline type="rss" text="HT · Lucknow" title="HT · Lucknow" xmlUrl="https://www.hindustantimes.com/feeds/rss/cities/lucknow-news/rssfeed.xml" language="en" />
+      <outline type="rss" text="HT · Mumbai" title="HT · Mumbai" xmlUrl="https://www.hindustantimes.com/feeds/rss/cities/mumbai-news/rssfeed.xml" language="en" />
+      <outline type="rss" text="HT · Noida" title="HT · Noida" xmlUrl="https://www.hindustantimes.com/feeds/rss/cities/noida-news/rssfeed.xml" language="en" />
+      <outline type="rss" text="HT #48" title="HT #48" xmlUrl="https://www.hindustantimes.com/feeds/rss/cities/others/rssfeed.xml" language="en" />
+      <outline type="rss" text="HT · Patna" title="HT · Patna" xmlUrl="https://www.hindustantimes.com/feeds/rss/cities/patna-news/rssfeed.xml" language="en" />
+      <outline type="rss" text="HT · Pune" title="HT · Pune" xmlUrl="https://www.hindustantimes.com/feeds/rss/cities/pune-news/rssfeed.xml" language="en" />
+      <outline type="rss" text="HT · Ranchi" title="HT · Ranchi" xmlUrl="https://www.hindustantimes.com/feeds/rss/cities/ranchi-news/rssfeed.xml" language="en" />
+    </outline>
+    <outline text="Mint" title="Mint">
+      <outline type="rss" text="Mint #52" title="Mint #52" xmlUrl="https://www.livemint.com/rss/news" language="en" />
+    </outline>
+    <outline text="News18" title="News18">
+      <outline type="rss" text="News18 #53" title="News18 #53" xmlUrl="https://www.news18.com/commonfeeds/v1/eng/rss/india.xml" language="en" />
+    </outline>
+    <outline text="DNA" title="DNA">
+      <outline type="rss" text="DNA #54" title="DNA #54" xmlUrl="https://www.dnaindia.com/feeds/india.xml" language="en" />
+    </outline>
+    <outline text="First Post" title="First Post">
+      <outline type="rss" text="First Post #55" title="First Post #55" xmlUrl="https://www.firstpost.com/commonfeeds/v1/mfp/rss/india.xml" language="en" />
+    </outline>
+    <outline text="Tribune" title="Tribune">
+      <outline type="rss" text="Tribune · Punjab" title="Tribune · Punjab" xmlUrl="https://publish.tribuneindia.com/state/punjab/feed/" language="en" />
+      <outline type="rss" text="Tribune · Haryana" title="Tribune · Haryana" xmlUrl="https://publish.tribuneindia.com/state/haryana/feed/" language="en" />
+      <outline type="rss" text="Tribune · Himachal Pradesh" title="Tribune · Himachal Pradesh" xmlUrl="https://publish.tribuneindia.com/state/himachal/feed/" language="en" />
+      <outline type="rss" text="Tribune · Jammu And Kashmir" title="Tribune · Jammu And Kashmir" xmlUrl="https://publish.tribuneindia.com/state/j-k/feed/" language="en" />
+      <outline type="rss" text="Tribune · Chhattisgarh" title="Tribune · Chhattisgarh" xmlUrl="https://publish.tribuneindia.com/state/chhattisgarh/feed/" language="en" />
+      <outline type="rss" text="Tribune · Madhya Pradesh" title="Tribune · Madhya Pradesh" xmlUrl="https://publish.tribuneindia.com/state/madhya-pradesh/feed/" language="en" />
+      <outline type="rss" text="Tribune · Rajasthan" title="Tribune · Rajasthan" xmlUrl="https://publish.tribuneindia.com/state/rajasthan/feed/" language="en" />
+      <outline type="rss" text="Tribune · Uttarakhand" title="Tribune · Uttarakhand" xmlUrl="https://publish.tribuneindia.com/state/uttarakhand/feed/" language="en" />
+      <outline type="rss" text="Tribune · Uttar Pradesh" title="Tribune · Uttar Pradesh" xmlUrl="https://publish.tribuneindia.com/state/uttar-pradesh/feed/" language="en" />
+      <outline type="rss" text="Tribune #65" title="Tribune #65" xmlUrl="https://publish.tribuneindia.com/newscategory/india/feed/" language="en" />
+    </outline>
+    <outline text="One India" title="One India">
+      <outline type="rss" text="One India #66" title="One India #66" xmlUrl="https://www.oneindia.com/rss/feeds/oneindia-fb.xml" language="en" />
+      <outline type="rss" text="One India #71" title="One India #71" xmlUrl="https://www.oneindia.com/rss/feeds/news-india-fb.xml" language="en" />
+    </outline>
+    <outline text="India Today" title="India Today">
+      <outline type="rss" text="India Today #67" title="India Today #67" xmlUrl="https://www.indiatoday.in/rss/1206578" language="en" />
+    </outline>
+    <outline text="Free Press Journal" title="Free Press Journal">
+      <outline type="rss" text="Free Press Journal #68" title="Free Press Journal #68" xmlUrl="https://www.freepressjournal.in/stories.rss" language="en" />
+    </outline>
+    <outline text="Deccan Chronicle" title="Deccan Chronicle">
+      <outline type="rss" text="Deccan Chronicle #69" title="Deccan Chronicle #69" xmlUrl="https://www.deccanchronicle.com/google_feeds.xml" language="en" />
+    </outline>
+    <outline text="abp" title="abp">
+      <outline type="rss" text="abp #70" title="abp #70" xmlUrl="https://news.abplive.com/news/india/feed" language="en" />
+    </outline>
+    <outline text="Latestly" title="Latestly">
+      <outline type="rss" text="Latestly #72" title="Latestly #72" xmlUrl="https://www.latestly.com/rss/india.xml" language="en" />
+    </outline>
+    <outline text="Zee News" title="Zee News">
+      <outline type="rss" text="Zee News #73" title="Zee News #73" xmlUrl="https://zeenews.india.com/rss/india-national-news.xml" language="en" />
+    </outline>
+    <outline text="India TV" title="India TV">
+      <outline type="rss" text="India TV #74" title="India TV #74" xmlUrl="https://www.indiatvnews.com/rssnews/topstory-india.xml" language="en" />
+    </outline>
+  </body>
+</opml>

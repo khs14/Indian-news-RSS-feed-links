@@ -1,0 +1,74 @@
+{"id": 1, "link": "http://timesofindia.indiatimes.com/rssfeeds/-2128838597.cms", "language": "en", "region": "Mumbai", "latitude": 18.9691, "longitude": 72.8212, "time_zone": "IST", "source": "TOI"}
+{"id": 2, "link": "https://timesofindia.indiatimes.com/rssfeeds/-2128839596.cms", "language": "en", "region": "Delhi", "latitude": 28.6324, "longitude": 77.2188, "time_zone": "IST", "source": "TOI"}
+{"id": 3, "link": "https://timesofindia.indiatimes.com/rssfeeds/-2128833038.cms", "language": "en", "region": "Bengaluru", "latitude": 12.9768, "longitude": 77.5753, "time_zone": "IST", "source": "TOI"}
+{"id": 4, "link": "https://timesofindia.indiatimes.com/rssfeeds/-2128816011.cms", "language": "en", "region": "Hyderabad", "latitude": 17.3617, "longitude": 78.4752, "time_zone": "IST", "source": "TOI"}
+{"id": 5, "link": "https://timesofindia.indiatimes.com/rssfeeds/2950623.cms", "language": "en", "region": "Chennai", "latitude": 13.0721, "longitude": 80.2019, "time_zone": "IST", "source": "TOI"}
+{"id": 6, "link": "https://timesofindia.indiatimes.com/rssfeeds/-2128821153.cms", "language": "en", "region": "Ahmedabad", "latitude": 23.0145, "longitude": 72.5918, "time_zone": "IST", "source": "TOI"}
+{"id": 7, "link": "https://timesofindia.indiatimes.com/rssfeeds/3947060.cms", "language": "en", "region": "Prayagraj", "latitude": 25.4358, "longitude": 81.8463, "time_zone": "IST", "source": "TOI"}
+{"id": 8, "link": "https://timesofindia.indiatimes.com/rssfeeds/4118235.cms", "language": "en", "region": "Bhubaneswar", "latitude": 20.2726, "longitude": 85.8331, "time_zone": "IST", "source": "TOI"}
+{"id": 9, "link": "https://timesofindia.indiatimes.com/rssfeeds/7503091.cms", "language": "en", "region": "Coimbatore", "latitude": 11.016, "longitude": 76.9703, "time_zone": "IST", "source": "TOI"}
+{"id": 10, "link": "https://timesofindia.indiatimes.com/rssfeeds/6547154.cms", "language": "en", "region": "Gurugram", "latitude": 28.4595, "longitude": 77.0266, "time_zone": "IST", "source": "TOI"}
+{"id": 11, "link": "https://timesofindia.indiatimes.com/rssfeeds/4118215.cms", "language": "en", "region": "Guwahati", "latitude": 26.1432, "longitude": 91.6594, "time_zone": "IST", "source": "TOI"}
+{"id": 12, "link": "https://timesofindia.indiatimes.com/rssfeeds/3942695.cms", "language": "en", "region": "Hubballi", "latitude": 15.3514, "longitude": 75.1476, "time_zone": "IST", "source": "TOI"}
+{"id": 13, "link": "https://timesofindia.indiatimes.com/rssfeeds/3947067.cms", "language": "en", "region": "Kanpur", "latitude": 26.4629, "longitude": 80.3234, "time_zone": "IST", "source": "TOI"}
+{"id": 14, "link": "https://timesofindia.indiatimes.com/rssfeeds/-2128830821.cms", "language": "en", "region": "Kolkata", "latitude": 22.5656, "longitude": 88.3702, "time_zone": "IST", "source": "TOI"}
+{"id": 15, "link": "https://timesofindia.indiatimes.com/rssfeeds/3947051.cms", "language": "en", "region": "Ludhiana", "latitude": 30.9132, "longitude": 75.8495, "time_zone": "IST", "source": "TOI"}
+{"id": 16, "link": "https://timesofindia.indiatimes.com/rssfeeds/3942690.cms", "language": "en", "region": "Mangaluru", "latitude": 12.868, "longitude": 74.8427, "time_zone": "IST", "source": "TOI"}
+{"id": 17, "link": "https://timesofindia.indiatimes.com/rssfeeds/3942693.cms", "language": "en", "region": "Mysuru", "latitude": 12.3137, "longitude": 76.6172, "time_zone": "IST", "source": "TOI"}
+{"id": 18, "link": "https://timesofindia.indiatimes.com/rssfeeds/8021716.cms", "language": "en", "region": "Noida", "latitude": 28.5847, "longitude": 77.352, "time_zone": "IST", "source": "TOI"}
+{"id": 19, "link": "https://timesofindia.indiatimes.com/rssfeeds/-2128821991.cms", "language": "en", "region": "Pune", "latitude": 18.5208, "longitude": 73.8554, "time_zone": "IST", "source": "TOI"}
+{"id": 20, "link": "https://timesofindia.indiatimes.com/rssfeeds/3012535.cms", "language": "en", "region": "Goa", "latitude": 15.3632, "longitude": 74.0527, "time_zone": "IST", "source": "TOI"}
+{"id": 21, "link": "https://timesofindia.indiatimes.com/rssfeeds/-2128816762.cms", "language": "en", "region": "Chandigarh", "latitude": 30.7334, "longitude": 76.779, "time_zone": "IST", "source": "TOI"}
+{"id": 22, "link": "https://timesofindia.indiatimes.com/rssfeeds/-2128819658.cms", "language": "en", "region": "Lucknow", "latitude": 26.8463, "longitude": 80.949, "time_zone": "IST", "source": "TOI"}
+{"id": 23, "link": "https://timesofindia.indiatimes.com/rssfeeds/-2128817995.cms", "language": "en", "region": "Patna", "latitude": 25.6112, "longitude": 85.1307, "time_zone": "IST", "source": "TOI"}
+{"id": 24, "link": "https://timesofindia.indiatimes.com/rssfeeds/3012544.cms", "language": "en", "region": "Jaipur", "latitude": 26.921, "longitude": 75.7944, "time_zone": "IST", "source": "TOI"}
+{"id": 25, "link": "https://timesofindia.indiatimes.com/rssfeeds/442002.cms", "language": "en", "region": "Nagpur", "latitude": 21.1526, "longitude": 79.0882, "time_zone": "IST", "source": "TOI"}
+{"id": 26, "link": "https://timesofindia.indiatimes.com/rssfeeds/3942663.cms", "language": "en", "region": "Rajkot", "latitude": 22.3101, "longitude": 70.7397, "time_zone": "IST", "source": "TOI"}
+{"id": 27, "link": "https://timesofindia.indiatimes.com/rssfeeds/4118245.cms", "language": "en", "region": "Ranchi", "latitude": 23.3699, "longitude": 85.3253, "time_zone": "IST", "source": "TOI"}
+{"id": 28, "link": "https://timesofindia.indiatimes.com/rssfeeds/3942660.cms", "language": "en", "region": "Surat", "latitude": 21.2035, "longitude": 72.8392, "time_zone": "IST", "source": "TOI"}
+{"id": 29, "link": "https://timesofindia.indiatimes.com/rssfeeds/3942666.cms", "language": "en", "region": "Vadodara", "latitude": 22.3112, "longitude": 73.182, "time_zone": "IST", "source": "TOI"}
+{"id": 30, "link": "https://timesofindia.indiatimes.com/rssfeeds/3947071.cms", "language": "en", "region": "Varanasi", "latitude": 25.3097, "longitude": 83.0057, "time_zone": "IST", "source": "TOI"}
+{"id": 31, "link": "https://timesofindia.indiatimes.com/rssfeeds/3831863.cms", "language": "en", "region": "Thane", "latitude": 19.1997, "longitude": 72.9646, "time_zone": "IST", "source": "TOI"}
+{"id": 32, "link": "https://timesofindia.indiatimes.com/rssfeeds/878156304.cms", "language": "en", "region": "Thiruvananthapuram", "latitude": 8.5304, "longitude": 76.9296, "time_zone": "IST", "source": "TOI"}
+{"id": 33, "link": "https://www.thehindu.com/news/national/feeder/default.rss", "language": "en", "region": null, "latitude": null, "longitude": null, "time_zone": "IST", "source": "Hindu"}
+{"id": 34, "link": "https://www.thehindu.com/news/cities/feeder/default.rss", "language": "en", "region": null, "latitude": null, "longitude": null, "time_zone": "IST", "source": "Hindu"}
+{"id": 35, "link": "https://www.hindustantimes.com/feeds/rss/cities/rssfeed.xml", "language": "en", "region": null, "latitude": null, "longitude": null, "time_zone": "IST", "source": "HT"}
+{"id": 36, "link": "https://www.hindustantimes.com/feeds/rss/cities/bengaluru-news/rssfeed.xml", "language": "en", "region": "Bengaluru", "latitude": 12.9882, "longitude": 77.6226, "time_zone": "IST", "source": "HT"}
+{"id": 37, "link": "https://www.hindustantimes.com/feeds/rss/cities/bhopal-news/rssfeed.xml", "language": "en", "region": "Bhopal", "latitude": 23.2585, "longitude": 77.402, "time_zone": "IST", "source": "HT"}
+{"id": 38, "link": "https://www.hindustantimes.com/feeds/rss/cities/chandigarh-news/rssfeed.xml", "language": "en", "region": "Chandigarh", "latitude": 30.7298, "longitude": 76.7841, "time_zone": "IST", "source": "HT"}
+{"id": 39, "link": "https://www.hindustantimes.com/feeds/rss/cities/dehradun-news/rssfeed.xml", "language": "en", "region": "Dehradun", "latitude": 30.3256, "longitude": 78.0437, "time_zone": "IST", "source": "HT"}
+{"id": 40, "link": "https://www.hindustantimes.com/feeds/rss/cities/delhi-news/rssfeed.xml", "language": "en", "region": "Delhi", "latitude": 28.6274, "longitude": 77.1717, "time_zone": "IST", "source": "HT"}
+{"id": 41, "link": "https://www.hindustantimes.com/feeds/rss/cities/gurugram-news/rssfeed.xml", "language": "en", "region": "Gurugram", "latitude": 28.4646, "longitude": 77.0299, "time_zone": "IST", "source": "HT"}
+{"id": 42, "link": "https://www.hindustantimes.com/feeds/rss/cities/indore-news/rssfeed.xml", "language": "en", "region": "Indore", "latitude": 22.7204, "longitude": 75.8682, "time_zone": "IST", "source": "HT"}
+{"id": 43, "link": "https://www.hindustantimes.com/feeds/rss/cities/jaipur-news/rssfeed.xml", "language": "en", "region": "Jaipur", "latitude": 26.9155, "longitude": 75.819, "time_zone": "IST", "source": "HT"}
+{"id": 44, "link": "https://www.hindustantimes.com/feeds/rss/cities/kolkata-news/rssfeed.xml", "language": "en", "region": "Kolkata", "latitude": 22.5726, "longitude": 88.3639, "time_zone": "IST", "source": "HT"}
+{"id": 45, "link": "https://www.hindustantimes.com/feeds/rss/cities/lucknow-news/rssfeed.xml", "language": "en", "region": "Lucknow", "latitude": 26.8381, "longitude": 80.9346, "time_zone": "IST", "source": "HT"}
+{"id": 46, "link": "https://www.hindustantimes.com/feeds/rss/cities/mumbai-news/rssfeed.xml", "language": "en", "region": "Mumbai", "latitude": 19.0785, "longitude": 72.8782, "time_zone": "IST", "source": "HT"}
+{"id": 47, "link": "https://www.hindustantimes.com/feeds/rss/cities/noida-news/rssfeed.xml", "language": "en", "region": "Noida", "latitude": 28.5706, "longitude": 77.3272, "time_zone": "IST", "source": "HT"}
+{"id": 48, "link": "https://www.hindustantimes.com/feeds/rss/cities/others/rssfeed.xml", "language": "en", "region": null, "latitude": null, "longitude": null, "time_zone": "IST", "source": "HT"}
+{"id": 49, "link": "https://www.hindustantimes.com/feeds/rss/cities/patna-news/rssfeed.xml", "language": "en", "region": "Patna", "latitude": 25.6093, "longitude": 85.1235, "time_zone": "IST", "source": "HT"}
+{"id": 50, "link": "https://www.hindustantimes.com/feeds/rss/cities/pune-news/rssfeed.xml", "language": "en", "region": "Pune", "latitude": 18.5214, "longitude": 73.8545, "time_zone": "IST", "source": "HT"}
+{"id": 51, "link": "https://www.hindustantimes.com/feeds/rss/cities/ranchi-news/rssfeed.xml", "language": "en", "region": "Ranchi", "latitude": 23.3701, "longitude": 85.325, "time_zone": "IST", "source": "HT"}
+{"id": 52, "link": "https://www.livemint.com/rss/news", "language": "en", "region": null, "latitude": null, "longitude": null, "time_zone": "IST", "source": "Mint"}
+{"id": 53, "link": "https://www.news18.com/commonfeeds/v1/eng/rss/india.xml", "language": "en", "region": null, "latitude": null, "longitude": null, "time_zone": "IST", "source": "News18"}
+{"id": 54, "link": "https://www.dnaindia.com/feeds/india.xml", "language": "en", "region": null, "latitude": null, "longitude": null, "time_zone": "GMT", "source": "DNA"}
+{"id": 55, "link": "https://www.firstpost.com/commonfeeds/v1/mfp/rss/india.xml", "language": "en", "region": null, "latitude": null, "longitude": null, "time_zone": "IST", "source": "First Post"}
+{"id": 56, "link": "https://publish.tribuneindia.com/state/punjab/feed/", "language": "en", "region": "Punjab", "latitude": 30.9293, "longitude": 75.5005, "time_zone": "GMT", "source": "Tribune"}
+{"id": 57, "link": "https://publish.tribuneindia.com/state/haryana/feed/", "language": "en", "region": "Haryana", "latitude": 29.0, "longitude": 76.0, "time_zone": "GMT", "source": "Tribune"}
+{"id": 58, "link": "https://publish.tribuneindia.com/state/himachal/feed/", "language": "en", "region": "Himachal Pradesh", "latitude": 32.1024, "longitude": 77.5619, "time_zone": "GMT", "source": "Tribune"}
+{"id": 59, "link": "https://publish.tribuneindia.com/state/j-k/feed/", "language": "en", "region": "Jammu And Kashmir", "latitude": 33.6649, "longitude": 75.163, "time_zone": "GMT", "source": "Tribune"}
+{"id": 60, "link": "https://publish.tribuneindia.com/state/chhattisgarh/feed/", "language": "en", "region": "Chhattisgarh", "latitude": 21.6637, "longitude": 81.8406, "time_zone": "GMT", "source": "Tribune"}
+{"id": 61, "link": "https://publish.tribuneindia.com/state/madhya-pradesh/feed/", "language": "en", "region": "Madhya Pradesh", "latitude": 23.8143, "longitude": 77.5341, "time_zone": "GMT", "source": "Tribune"}
+{"id": 62, "link": "https://publish.tribuneindia.com/state/rajasthan/feed/", "language": "en", "region": "Rajasthan", "latitude": 26.8106, "longitude": 73.7685, "time_zone": "GMT", "source": "Tribune"}
+{"id": 63, "link": "https://publish.tribuneindia.com/state/uttarakhand/feed/", "language": "en", "region": "Uttarakhand", "latitude": 30.0417, "longitude": 79.0897, "time_zone": "GMT", "source": "Tribune"}
+{"id": 64, "link": "https://publish.tribuneindia.com/state/uttar-pradesh/feed/", "language": "en", "region": "Uttar Pradesh", "latitude": 27.1303, "longitude": 80.8597, "time_zone": "GMT", "source": "Tribune"}
+{"id": 65, "link": "https://publish.tribuneindia.com/newscategory/india/feed/", "language": "en", "region": null, "latitude": null, "longitude": null, "time_zone": "GMT", "source": "Tribune"}
+{"id": 66, "link": "https://www.oneindia.com/rss/feeds/oneindia-fb.xml", "language": "en", "region": null, "latitude": null, "longitude": null, "time_zone": "IST", "source": "One India"}
+{"id": 67, "link": "https://www.indiatoday.in/rss/1206578", "language": "en", "region": null, "latitude": null, "longitude": null, "time_zone": "IST", "source": "India Today"}
+{"id": 68, "link": "https://www.freepressjournal.in/stories.rss", "language": "en", "region": null, "latitude": null, "longitude": null, "time_zone": "GMT", "source": "Free Press Journal"}
+{"id": 69, "link": "https://www.deccanchronicle.com/google_feeds.xml", "language": "en", "region": null, "latitude": null, "longitude": null, "time_zone": "GMT", "source": "Deccan Chronicle"}
+{"id": 70, "link": "https://news.abplive.com/news/india/feed", "language": "en", "region": null, "latitude": null, "longitude": null, "time_zone": "IST", "source": "abp"}
+{"id": 71, "link": "https://www.oneindia.com/rss/feeds/news-india-fb.xml", "language": "en", "region": null, "latitude": null, "longitude": null, "time_zone": "IST", "source": "One India"}
+{"id": 72, "link": "https://www.latestly.com/rss/india.xml", "language": "en", "region": null, "latitude": null, "longitude": null, "time_zone": "IST", "source": "Latestly"}
+{"id": 73, "link": "https://zeenews.india.com/rss/india-national-news.xml", "language": "en", "region": null, "latitude": null, "longitude": null, "time_zone": "GMT", "source": "Zee News"}
+{"id": 74, "link": "https://www.indiatvnews.com/rssnews/topstory-india.xml", "language": "en", "region": null, "latitude": null, "longitude": null, "time_zone": "IST", "source": "India TV"}
